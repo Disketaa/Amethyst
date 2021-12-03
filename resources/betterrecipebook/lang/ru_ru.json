@@ -29,7 +29,7 @@
   "text.autoconfig.betterrecipebook.option.newRecipes.enableBounce": "Включить анимацию разблокировки",
   "text.autoconfig.betterrecipebook.option.newRecipes.enableBounce.@Tooltip": "Анимация маленького подпрыгивания\nпри разблокировке нового предмета",
 
-  "betterrecipebook.gui.pin.add": "§7ℹакрепить на F",
+  "betterrecipebook.gui.pin.add": "§7ℹЗакрепить на F",
   "betterrecipebook.gui.pin.remove": "§7ℹОткрепить на F",
   "betterrecipebook.gui.togglePotions.brewable": "Доступно к варке",
   "betterrecipebook.gui.instantCraft.on": "Моментальное создание",

@@ -90,11 +90,6 @@
     "cloak": "azure"
   },
   {
-    "name": "Harvey_Goody",
-    "uuid": "3cc33278-f220-496b-821e-96ecb3b095f4",
-    "cloak": "turtle"
-  },
-  {
     "name": "Bomb_JMA",
     "uuid": "80bd076a-16a1-4829-8eb9-3f44f985c7aa",
     "cloak": "pumpkin"
@@ -945,13 +940,38 @@
     "cloak": "jeb"
   },
   {
-    "name": "_VaSiLiCh_\n",
-    "uuid": "bcaee2ef-e2b8-4b3f-821e-ba637ed1e217",
-    "cloak": "crimson"
+    "name": "Saiko_Chan",
+    "uuid": "968a52ea-99d8-410e-afcb-cc096e200187",
+    "cloak": "void"
   },
   {
-    "name": "VaSiLiCh\n",
-    "uuid": "43190aa4-4091-4baa-9556-72869512e5cd",
-    "cloak": "cosmic"
+    "name": "_VaSiLiCh_",
+    "uuid": "bcaee2ef-e2b8-4b3f-821e-ba637ed1e217",
+    "cloak": "uni"
+  },
+  {
+    "name": "lootidiezweite",
+    "uuid": "611f3bad-1b1a-43cf-8aaf-d55728622fc8",
+    "cloak": "pride"
+  },
+  {
+    "name": "Casmin7",
+    "uuid": "82f7ff2f-dabd-4b69-9217-fbbd8d63ccff",
+    "cloak": "mystic"
+  },
+  {
+    "name": "MintNo0dle",
+    "uuid": "3efabb45-d683-4ec2-927f-dbb40e369fd6",
+    "cloak": "mint"
+  },
+  {
+    "name": "M4XT4STIC",
+    "uuid": "15420198-218b-4ad6-a8a7-4f9576f007a7",
+    "cloak": "trans"
+  },
+  {
+    "name": "Harvey_Goody",
+    "uuid": "3cc33278-f220-496b-821e-96ecb3b095f4",
+    "cloak": "mint"
   }
 ]
