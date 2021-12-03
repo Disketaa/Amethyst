@@ -1,6 +1,7 @@
 .fabric/*
 crash-reports/*
 logs/*
+patched_shaders/*
 saves/*
 XaeroWorldMap/*
 screenshots/*
@@ -12,3 +13,5 @@ slotlock.json
 usercache.json
 usernamecache.json
 realms_persistence.json
+minecraftinstance.json
+.curseclient

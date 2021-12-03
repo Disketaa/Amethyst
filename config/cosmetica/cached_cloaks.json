@@ -923,5 +923,25 @@
     "name": "JM149",
     "uuid": "fa397bbf-f7bc-4117-a03f-7b59e0c0395c",
     "cloak": "void"
+  },
+  {
+    "name": "_JWX",
+    "uuid": "51fae04d-cbfc-4192-907b-1f415b5bc671",
+    "cloak": "void"
+  },
+  {
+    "name": "_jwx",
+    "uuid": "51fae04d-cbfc-4192-907b-1f415b5bc671",
+    "cloak": "jeb"
+  },
+  {
+    "name": "KaiPlayz",
+    "uuid": "c6e27c8b-b03d-4e5f-aa9b-29035c76c3e7",
+    "cloak": "crimson"
+  },
+  {
+    "name": "SrSuperMightByte",
+    "uuid": "c439da17-bd3c-4453-92b5-a9289915f2bc",
+    "cloak": "jeb"
   }
 ]
