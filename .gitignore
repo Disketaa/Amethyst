@@ -6,12 +6,11 @@ saves/*
 XaeroWorldMap/*
 screenshots/*
 shaderpacks/*
-options.txt
 servers.dat
 servers.dat_old
-slotlock.json
 usercache.json
 usernamecache.json
 realms_persistence.json
 minecraftinstance.json
 .curseclient
+brb.pins

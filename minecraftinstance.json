@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-12-03T12:21:38.8270626Z",
-  "playedCount": 1,
+  "lastPlayed": "2021-12-03T13:57:20.7383407Z",
+  "playedCount": 5,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Minecraft-Community-Update",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-12-03T12:02:14.3768923Z",
-  "lastRefreshAttempt": "2021-12-03T15:20:22.1824802+03:00",
+  "lastPreviousMatchUpdate": "2021-12-03T13:53:43.0372025Z",
+  "lastRefreshAttempt": "2021-12-03T16:53:43.3296773+03:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.18",
@@ -2208,6 +2208,135 @@
       "installedTargets": []
     },
     {
+      "addonID": 535489,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3546534,
+        "displayName": "[FABRIC][1.18] Sound Physics Remastered 1.18-1.0.3",
+        "fileName": "soundphysics-fabric-1.18-1.0.3.jar",
+        "fileDate": "2021-12-03T12:15:37.65Z",
+        "fileLength": 97191,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3546/534/soundphysics-fabric-1.18-1.0.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79896045,
+            "addonId": 319057,
+            "type": 2,
+            "fileId": 3546534
+          },
+          {
+            "id": 79896044,
+            "addonId": 416089,
+            "type": 2,
+            "fileId": 3546534
+          },
+          {
+            "id": 79896043,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3546534
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2112499282,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "sound_physics_remastered.mixins.json",
+            "fingerprint": 2022248,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 3800612927,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1714241109,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 827308951,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "soundphysics-fabric-refmap.json",
+            "fingerprint": 2393785483,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 856323207,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1768793597,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2609833,
+        "projectId": 535489,
+        "packageFingerprintId": 799007619,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3521174,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "soundphysics-fabric-1.18-1.0.3.jar"
+      },
+      "dateInstalled": "2021-12-03T12:34:36.8626833Z",
+      "dateUpdated": "2021-12-03T12:34:36.8626833Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 325471,
       "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
       "installedFile": {
@@ -2793,137 +2922,6 @@
       },
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 408366,
-      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
-      "installedFile": {
-        "id": 3541401,
-        "displayName": "Slotlock 1.0.4-BETA",
-        "fileName": "slotlock-1.0.4-BETA+1.18.jar",
-        "fileDate": "2021-11-30T05:19:29.467Z",
-        "fileLength": 29659,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3541/401/slotlock-1.0.4-BETA+1.18.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 79656293,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 3541401
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1661088599,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 2980605036,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1366511788,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "slotlock.mixins.json",
-            "fingerprint": 2483802149,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1287325271,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "slotlock.accesswidener",
-            "fingerprint": 3114132999,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "slotlock-refmap.json",
-            "fingerprint": 1375013196,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "io",
-            "fingerprint": 414442619,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 425614949,
-        "gameVersion": [
-          "Fabric",
-          "1.18",
-          "1.18-Snapshot"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric",
-            "gameVersionTypeId": 68441
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000018",
-            "gameVersion": "1.18",
-            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-            "gameVersionName": "1.18",
-            "gameVersionTypeId": 73250
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000018",
-            "gameVersion": "1.18",
-            "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-            "gameVersionName": "1.18-Snapshot",
-            "gameVersionTypeId": 73250
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2603917,
-        "projectId": 408366,
-        "packageFingerprintId": 796091284,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3506982,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "slotlock-1.0.4-BETA+1.18.jar"
-      },
-      "dateInstalled": "2021-12-03T12:02:16.224613Z",
-      "dateUpdated": "2021-12-03T12:02:16.224613Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
