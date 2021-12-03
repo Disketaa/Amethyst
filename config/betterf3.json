@@ -1,0 +1,157 @@
+{
+	"general": {
+		"animationSpeed": 2.0,
+		"disable_mod": false,
+		"background_color": 810569808,
+		"space_modules": false,
+		"shadow_text": false,
+		"animations": true,
+		"fontScale": 1.0
+	},
+	"modules_right": [
+		{
+			"name": "system",
+			"name_color": 14606046,
+			"value_color": 16777215,
+			"lines": {
+				"opengl_version": false,
+				"display": false,
+				"java_version": true,
+				"gpu_driver": false,
+				"memory_usage": true,
+				"allocated_memory": true,
+				"cpu": false,
+				"gpu": false
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "empty",
+			"lines": {
+				"": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "target",
+			"name_color": 14606046,
+			"value_color": 16777215,
+			"lines": {
+				"": true,
+				"id_fluid": true,
+				"fluid_tags": true,
+				"block_states": true,
+				"targeted_block": true,
+				"block_tags": false,
+				"id_block": true,
+				"targeted_fluid": true,
+				"targeted_entity": true,
+				"fluid_states": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "empty",
+			"lines": {
+				"": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "help",
+			"name_color": 14606046,
+			"value_color": 16777215,
+			"lines": {
+				"help": true,
+				"pie_graph": true,
+				"fps_tps": true
+			},
+			"enabled": true
+		}
+	],
+	"modules_left": [
+		{
+			"name": "minecraft",
+			"name_color": 16777045,
+			"value_color": 16777215,
+			"lines": {
+				"minecraft": true
+			},
+			"enabled": true
+		}, 
+		{
+			"color_high": 16777215,
+			"color_med": 16777215,
+			"name": "fps",
+			"lines": {
+				"fps": true
+			},
+			"enabled": true,
+			"color_low": 16777215
+		}, 
+		{
+			"name": "empty",
+			"lines": {
+				"": true
+			},
+			"enabled": true
+		}, 
+		{
+			"color_x": 16777215,
+			"color_y": 16777215,
+			"color_z": 16777215,
+			"name": "coords",
+			"name_color": 14606046,
+			"lines": {
+				"chunk_coords": true,
+				"player_coords": true,
+				"block_coords": false,
+				"chunk_relative_coords": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "location",
+			"name_color": 14606046,
+			"value_color": 16777215,
+			"lines": {
+				"light": true,
+				"biome": true,
+				"rotation": true,
+				"facing": true,
+				"local_difficulty": false,
+				"days_played": true,
+				"dimension": true,
+				"highest_block": false,
+				"highest_block_server": false,
+				"light_server": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "empty",
+			"lines": {
+				"": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "entity",
+			"name_color": 14606046,
+			"value_color": 16777215,
+			"lines": {
+				"entities": true,
+				"water_creature": true,
+				"underground_water_creature": true,
+				"ambient": true,
+				"particles": true,
+				"axolotls": false,
+				"creature": true,
+				"water_ambient": true,
+				"monster": true,
+				"misc": true
+			},
+			"enabled": true
+		}
+	]
+}
