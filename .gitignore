@@ -5,7 +5,6 @@ patched_shaders/*
 saves/*
 XaeroWorldMap/*
 screenshots/*
-shaderpacks/*
 servers.dat
 servers.dat_old
 usercache.json
@@ -16,3 +15,4 @@ minecraftinstance.json
 brb.pins
 profileImage/animated.png
 options.txt
+BTLib.dll
