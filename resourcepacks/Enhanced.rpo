@@ -4,5 +4,8 @@
     "authentic_shadows": true,
     "detailed_torches": true,
     "red_crimson_wood": true
+  },
+  "misc": {
+    "item_physics": true
   }
 }

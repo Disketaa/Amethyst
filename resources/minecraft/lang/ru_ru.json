@@ -1,6 +1,7 @@
 {
 	"rpo.enhanced": "Настройки набора ресурсов",
-	"rpo.enhanced.textures": "Текстуры",	
+	"rpo.enhanced.textures": "Текстуры",
+	"rpo.enhanced.misc": "Разное",
 
 	"rpo.enhanced.textures.alternative_crosshair": "Альтернативный курсор",
 	"rpo.tooltip.enhanced.textures.alternative_crosshair": "Курсор в виде 4-х точек §7©Disketaa",
@@ -8,6 +9,9 @@
 	"rpo.tooltip.enhanced.textures.authentic_shadows": "Пикселизация теней для сущностей §7©Liahim85",
 	"rpo.enhanced.textures.detailed_torches": "Детализированные факела",
 	"rpo.tooltip.enhanced.textures.detailed_torches": "Подставка на настенных факелах §7©Psilock1",
-	"rpo.enhanced.textures.red_crimson_wood": "Красное багровое дерево",
-	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Изменение текстур на более красные версии §7©Unknown"
+	"rpo.enhanced.textures.red_crimson_wood": "Багровые деревья",
+	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Изменение текстур багрового дерева на красные аналоги §7©Unknown",
+
+	"rpo.enhanced.misc.item_physics": "Физика предметов",
+	"rpo.tooltip.enhanced.misc.item_physics": "Имитация физики для предметов §7©Strideyyyn"
 }

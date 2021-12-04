@@ -90,11 +90,6 @@
     "cloak": "azure"
   },
   {
-    "name": "Bomb_JMA",
-    "uuid": "80bd076a-16a1-4829-8eb9-3f44f985c7aa",
-    "cloak": "pumpkin"
-  },
-  {
     "name": "100persent",
     "uuid": "03f6f092-6154-4ce3-b5da-a62682c6f372",
     "cloak": "smoky"
@@ -983,5 +978,20 @@
     "name": "EmbershadeSC",
     "uuid": "9d7cafd8-b6ad-4c24-a9f8-516a0b280169",
     "cloak": "bi"
+  },
+  {
+    "name": "ooNeptune",
+    "uuid": "a903daf9-a401-4e13-adf9-0e8594a67a40",
+    "cloak": "azure"
+  },
+  {
+    "name": "Bomb_JMA",
+    "uuid": "80bd076a-16a1-4829-8eb9-3f44f985c7aa",
+    "cloak": "smoky"
+  },
+  {
+    "name": "CobenACOG",
+    "uuid": "6fa87dd8-11f2-45b1-b60b-671e939c128b",
+    "cloak": "enchanted-jeb"
   }
 ]

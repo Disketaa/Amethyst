@@ -1,6 +1,7 @@
 {
 	"rpo.enhanced": "Configuration",
-	"rpo.enhanced.textures": "Textures",	
+	"rpo.enhanced.textures": "Textures",
+	"rpo.enhanced.misc": "Miscellaneous",
 
 	"rpo.enhanced.textures.alternative_crosshair": "Alternative Crosshair",
 	"rpo.tooltip.enhanced.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
@@ -9,5 +10,10 @@
 	"rpo.enhanced.textures.detailed_torches": "Detailed Torches",
 	"rpo.tooltip.enhanced.textures.detailed_torches": "Adds a stand for wall torch §7©Psilock1",
 	"rpo.enhanced.textures.red_crimson_wood": "Red Crimson Wood",
-	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Paint crimson wood in red colors §7©Unknown"
+	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Paint crimson wood in red colors §7©Unknown",
+
+	"rpo.enhanced.misc.item_physics": "Item Physics",
+	"rpo.tooltip.enhanced.misc.item_physics": "Imitating item physic behaviour §7©Strideyyyn"
+
+
 }

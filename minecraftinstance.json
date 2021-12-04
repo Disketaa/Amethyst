@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-12-04T17:57:35.0189571Z",
-  "playedCount": 14,
+  "lastPlayed": "2021-12-04T18:13:48.1177149Z",
+  "playedCount": 16,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Minecraft-Community-Update",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-12-04T17:57:22.5135263Z",
-  "lastRefreshAttempt": "2021-12-04T20:58:48.566469+03:00",
+  "lastPreviousMatchUpdate": "2021-12-04T18:49:09.7040268Z",
+  "lastRefreshAttempt": "2021-12-04T21:53:17.5441719+03:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.18",
@@ -2483,7 +2483,7 @@
       "dateInstalled": "2021-12-04T17:57:43.0141301Z",
       "dateUpdated": "2021-12-04T17:57:43.0410577Z",
       "dateLastUpdateAttempted": "2021-12-04T17:57:43.0410577Z",
-      "status": 3,
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2606,7 +2606,7 @@
       "dateInstalled": "2021-12-04T17:57:29.6529716Z",
       "dateUpdated": "2021-12-04T17:57:29.6529716Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3676,6 +3676,129 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 538793,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3549001,
+        "displayName": "BetterTaskbar-1.18-1.1-Fabric",
+        "fileName": "BetterTaskbar-1.18-Fabric-1.1.jar",
+        "fileDate": "2021-12-04T15:22:34.33Z",
+        "fileLength": 213313,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3549/1/BetterTaskbar-1.18-Fabric-1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 3549002,
+        "dependencies": [
+          {
+            "id": 79995043,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3549001
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3403134179,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_BetterTaskbar",
+            "fingerprint": 1136524626,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1567122665,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2999771679,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bettertaskbar.mixins.json",
+            "fingerprint": 2147337745,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bettertaskbar.accesswidener",
+            "fingerprint": 314057842,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "BetterTaskbar-1.18-Fabric-refmap.json",
+            "fingerprint": 2991660646,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 768458143,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3805286817,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2612592,
+        "projectId": 538793,
+        "packageFingerprintId": 799829584,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3526363,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "BetterTaskbar-1.18-Fabric-1.1.jar"
+      },
+      "dateInstalled": "2021-12-04T17:58:48.3450597Z",
+      "dateUpdated": "2021-12-04T17:58:48.3450597Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 422343,
