@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-12-04T09:55:37.8608204Z",
-  "playedCount": 13,
+  "lastPlayed": "2021-12-04T17:57:35.0189571Z",
+  "playedCount": 14,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Minecraft-Community-Update",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-12-04T09:58:10.6054787Z",
-  "lastRefreshAttempt": "2021-12-04T13:13:31.9303425+03:00",
+  "lastPreviousMatchUpdate": "2021-12-04T17:57:22.5135263Z",
+  "lastRefreshAttempt": "2021-12-04T20:58:48.566469+03:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.18",
@@ -388,7 +388,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -505,7 +505,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -640,7 +640,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3388152Z",
       "dateUpdated": "2021-12-03T12:02:14.3388152Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -886,7 +886,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -988,7 +988,7 @@
       "dateInstalled": "2021-12-03T12:02:16.226609Z",
       "dateUpdated": "2021-12-03T12:02:16.226609Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1264,7 +1264,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3378163Z",
       "dateUpdated": "2021-12-03T12:02:14.3378163Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1388,7 +1388,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1517,6 +1517,123 @@
       "dateInstalled": "2021-12-03T12:02:16.2305966Z",
       "dateUpdated": "2021-12-03T12:02:16.2305966Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 430090,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3542094,
+        "displayName": "[1.18] 2.9.0",
+        "fileName": "respackopts-2.9.0.jar",
+        "fileDate": "2021-11-30T18:28:26.727Z",
+        "fileLength": 262981,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3542/94/respackopts-2.9.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79666840,
+            "addonId": 308702,
+            "type": 3,
+            "fileId": 3542094
+          },
+          {
+            "id": 79666841,
+            "addonId": 319057,
+            "type": 3,
+            "fileId": 3542094
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2804072967,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1828096995,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1346704556,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "io",
+            "fingerprint": 860197683,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "respackopts-refmap.json",
+            "fingerprint": 3920883091,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "respackopts.mixins.json",
+            "fingerprint": 1583352310,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 432697634,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2604716,
+        "projectId": 430090,
+        "packageFingerprintId": 796578608,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3509284,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "respackopts-2.9.0.jar"
+      },
+      "dateInstalled": "2021-12-04T10:13:31.7309185Z",
+      "dateUpdated": "2021-12-04T10:13:31.7309185Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -1634,7 +1751,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3368194Z",
       "dateUpdated": "2021-12-03T12:02:14.3368194Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -1887,7 +2004,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2016,7 +2133,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2126,7 +2243,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2270,29 +2387,29 @@
       "addonID": 317780,
       "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
       "installedFile": {
-        "id": 3541577,
-        "displayName": "v1.18.4 for Fabric 1.18",
-        "fileName": "XaerosWorldMap_1.18.4_Fabric_1.18.jar",
-        "fileDate": "2021-11-30T10:50:51.88Z",
-        "fileLength": 576580,
-        "releaseType": 1,
+        "id": 3549052,
+        "displayName": "v1.18.6 for Fabric 1.18",
+        "fileName": "XaerosWorldMap_1.18.6_Fabric_1.18.jar",
+        "fileDate": "2021-12-04T16:09:28.46Z",
+        "fileLength": 576674,
+        "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3541/577/XaerosWorldMap_1.18.4_Fabric_1.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3549/52/XaerosWorldMap_1.18.6_Fabric_1.18.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 79656392,
+            "id": 79997331,
             "addonId": 306612,
             "type": 3,
-            "fileId": 3541577
+            "fileId": 3549052
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3673984194,
+            "fingerprint": 559213073,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -2304,13 +2421,13 @@
           },
           {
             "foldername": "fabric.mod.json",
-            "fingerprint": 2058128415,
+            "fingerprint": 1071592882,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "xaero",
-            "fingerprint": 241801859,
+            "fingerprint": 136205242,
             "type": 3,
             "invalidFingerprint": false
           },
@@ -2327,11 +2444,10 @@
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 3036674324,
+        "packageFingerprint": 1249238651,
         "gameVersion": [
           "Fabric",
-          "1.18",
-          "1.18-Snapshot"
+          "1.18"
         ],
         "sortableGameVersion": [
           {
@@ -2347,13 +2463,6 @@
             "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
             "gameVersionName": "1.18",
             "gameVersionTypeId": 73250
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000018",
-            "gameVersion": "1.18",
-            "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-            "gameVersionName": "1.18-Snapshot",
-            "gameVersionTypeId": 73250
           }
         ],
         "hasInstallScript": false,
@@ -2361,18 +2470,141 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2604130,
+        "renderCacheId": 2612658,
         "projectId": 317780,
-        "packageFingerprintId": 796196462,
+        "packageFingerprintId": 799842314,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3507387,
+        "gameVersionMappingId": 3526473,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "XaerosWorldMap_1.18.4_Fabric_1.18.jar"
+        "FileNameOnDisk": "XaerosWorldMap_1.18.6_Fabric_1.18.jar"
       },
-      "dateInstalled": "2021-12-03T12:02:16.2286014Z",
-      "dateUpdated": "2021-12-03T12:02:16.2286014Z",
+      "dateInstalled": "2021-12-04T17:57:43.0141301Z",
+      "dateUpdated": "2021-12-04T17:57:43.0410577Z",
+      "dateLastUpdateAttempted": "2021-12-04T17:57:43.0410577Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 495059,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3549080,
+        "displayName": "justenoughkeys-fabric-1.18-0.4.2",
+        "fileName": "justenoughkeys-0.4.2-fabric.jar",
+        "fileDate": "2021-12-04T16:22:59.317Z",
+        "fileLength": 43967,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3549/80/justenoughkeys-0.4.2-fabric.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79998510,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3549080
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3370365847,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2338786710,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "justenoughkeys.mixins.json",
+            "fingerprint": 911922316,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "justenoughkeys-common-refmap.json",
+            "fingerprint": 3854602263,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "justenoughkeys.mixins.fabric.json",
+            "fingerprint": 1136730306,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2748172417,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "xyz",
+            "fingerprint": 1709046276,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "architectury_inject_justenoughkeys_common_70a368aebad94152b4b5731065875292_140c283f3d4a4227f960af310db2e726d80ff75314ddeb6dd04f5ca823fa2846justenoughkeys042devjar",
+            "fingerprint": 152273218,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2278149783,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2612689,
+        "projectId": 495059,
+        "packageFingerprintId": 799847377,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3526561,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "justenoughkeys-0.4.2-fabric.jar"
+      },
+      "dateInstalled": "2021-12-04T17:57:29.6529716Z",
+      "dateUpdated": "2021-12-04T17:57:29.6529716Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
@@ -2383,7 +2615,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 380393,
@@ -2571,7 +2803,7 @@
       "dateInstalled": "2021-12-03T12:02:16.226609Z",
       "dateUpdated": "2021-12-03T12:02:16.226609Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2687,7 +2919,7 @@
       "dateInstalled": "2021-12-03T12:20:36.5054825Z",
       "dateUpdated": "2021-12-03T12:20:36.5190021Z",
       "dateLastUpdateAttempted": "2021-12-03T12:20:36.5190021Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2816,7 +3048,7 @@
       "dateInstalled": "2021-12-03T12:34:36.8626833Z",
       "dateUpdated": "2021-12-03T12:34:36.8626833Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2934,7 +3166,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3092,7 +3324,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317121,
@@ -3201,7 +3433,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3312,7 +3544,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3434,7 +3666,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3553,7 +3785,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 481530,
@@ -3666,7 +3898,7 @@
       "dateInstalled": "2021-12-03T12:02:16.224613Z",
       "dateUpdated": "2021-12-03T12:02:16.224613Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3795,7 +4027,7 @@
       "dateInstalled": "2021-12-03T12:02:16.2295984Z",
       "dateUpdated": "2021-12-03T12:02:16.2295984Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3912,7 +4144,7 @@
       "dateInstalled": "2021-12-03T12:02:16.225611Z",
       "dateUpdated": "2021-12-03T12:02:16.225611Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3922,135 +4154,6 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
-    },
-    {
-      "addonID": 403858,
-      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
-      "installedFile": {
-        "id": 3542157,
-        "displayName": "[1.18] BedrockIfy 1.3.0",
-        "fileName": "bedrockify-1.3.0+mc1.18.jar",
-        "fileDate": "2021-11-30T18:49:09.583Z",
-        "fileLength": 1119759,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3542/157/bedrockify-1.3.0+mc1.18.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 79669393,
-            "addonId": 306612,
-            "type": 3,
-            "fileId": 3542157
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 975349643,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 3819632614,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 3118264282,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3479613465,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bedrockify.accesswidener",
-            "fingerprint": 1050977558,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bedrockify.mixins.json",
-            "fingerprint": 1693623609,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 456956011,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bedrockify-refmap.json",
-            "fingerprint": 1267427825,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "me",
-            "fingerprint": 1017232688,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 508024931,
-        "gameVersion": [
-          "Fabric",
-          "1.18"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric",
-            "gameVersionTypeId": 68441
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000018",
-            "gameVersion": "1.18",
-            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-            "gameVersionName": "1.18",
-            "gameVersionTypeId": 73250
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2604786,
-        "projectId": 403858,
-        "packageFingerprintId": 796586242,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3509464,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "bedrockify-1.3.0+mc1.18.jar"
-      },
-      "dateInstalled": "2021-12-04T10:13:06.9206559Z",
-      "dateUpdated": "2021-12-04T10:13:06.9206559Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
     },
     {
       "addonID": 547434,
@@ -4194,7 +4297,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3572943Z",
       "dateUpdated": "2021-12-03T12:02:14.3572943Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4383,7 +4486,117 @@
       "dateInstalled": "2021-12-03T12:02:14.3572943Z",
       "dateUpdated": "2021-12-03T12:02:14.3572943Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 527023,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3543941,
+        "displayName": "1.18-EatingAnimation-1.2.jar",
+        "fileName": "eating-animation-1.2.jar",
+        "fileDate": "2021-12-01T17:14:42.497Z",
+        "fileLength": 142178,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3543/941/eating-animation-1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4151316780,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_eating-animation",
+            "fingerprint": 3169615205,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3477669366,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "eatinganimation.mixins.json",
+            "fingerprint": 1033268296,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3287640999,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "eating-animation-refmap.json",
+            "fingerprint": 3059231980,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ru",
+            "fingerprint": 2431873775,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2149616560,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2606800,
+        "projectId": 527023,
+        "packageFingerprintId": 797625190,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3514468,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "eating-animation-1.2.jar"
+      },
+      "dateInstalled": "2021-12-03T12:02:14.3572943Z",
+      "dateUpdated": "2021-12-03T12:02:14.3572943Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4501,116 +4714,6 @@
       "dateInstalled": "2021-12-03T20:40:53.9471809Z",
       "dateUpdated": "2021-12-03T20:40:53.9551599Z",
       "dateLastUpdateAttempted": "2021-12-03T20:40:53.9551599Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 527023,
-      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
-      "installedFile": {
-        "id": 3543941,
-        "displayName": "1.18-EatingAnimation-1.2.jar",
-        "fileName": "eating-animation-1.2.jar",
-        "fileDate": "2021-12-01T17:14:42.497Z",
-        "fileLength": 142178,
-        "releaseType": 2,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3543/941/eating-animation-1.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4151316780,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE_eating-animation",
-            "fingerprint": 3169615205,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 3477669366,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "eatinganimation.mixins.json",
-            "fingerprint": 1033268296,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3287640999,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "eating-animation-refmap.json",
-            "fingerprint": 3059231980,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "ru",
-            "fingerprint": 2431873775,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2149616560,
-        "gameVersion": [
-          "Fabric",
-          "1.18"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Fabric",
-            "gameVersionTypeId": 68441
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000018",
-            "gameVersion": "1.18",
-            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
-            "gameVersionName": "1.18",
-            "gameVersionTypeId": 73250
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2606800,
-        "projectId": 527023,
-        "packageFingerprintId": 797625190,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3514468,
-        "gameVersionId": 7499,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "eating-animation-1.2.jar"
-      },
-      "dateInstalled": "2021-12-03T12:02:14.3572943Z",
-      "dateUpdated": "2021-12-03T12:02:14.3572943Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4826,7 +4929,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4942,7 +5045,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3619329Z",
       "dateUpdated": "2021-12-03T12:02:14.3619329Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
