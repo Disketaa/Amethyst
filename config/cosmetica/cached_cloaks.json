@@ -968,5 +968,20 @@
     "name": "Harvey_Goody",
     "uuid": "3cc33278-f220-496b-821e-96ecb3b095f4",
     "cloak": "mint"
+  },
+  {
+    "name": "pixel128",
+    "uuid": "b42b947b-5a21-4a75-9e7c-50697543aa7b",
+    "cloak": "non-binary"
+  },
+  {
+    "name": "TokyoInkSans",
+    "uuid": "9b6639d3-caae-4797-b8fe-2611bc7108f9",
+    "cloak": "uni"
+  },
+  {
+    "name": "EmbershadeSC",
+    "uuid": "9d7cafd8-b6ad-4c24-a9f8-516a0b280169",
+    "cloak": "bi"
   }
 ]

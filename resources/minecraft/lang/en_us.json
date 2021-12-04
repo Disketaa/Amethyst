@@ -1,0 +1,13 @@
+{
+	"rpo.enhanced": "Configuration",
+	"rpo.enhanced.textures": "Textures",	
+
+	"rpo.enhanced.textures.alternative_crosshair": "Alternative Crosshair",
+	"rpo.tooltip.enhanced.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
+	"rpo.enhanced.textures.authentic_shadows": "Authentic Shadows",
+	"rpo.tooltip.enhanced.textures.authentic_shadows": "Pixel consistently entity shadow §7©Liahim85",
+	"rpo.enhanced.textures.detailed_torches": "Detailed Torches",
+	"rpo.tooltip.enhanced.textures.detailed_torches": "Adds a stand for wall torch §7©Psilock1",
+	"rpo.enhanced.textures.red_crimson_wood": "Red Crimson Wood",
+	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Paint crimson wood in red colors §7©Unknown"
+}

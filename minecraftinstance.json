@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-12-04T00:13:29.9020296Z",
-  "playedCount": 12,
+  "lastPlayed": "2021-12-04T09:55:37.8608204Z",
+  "playedCount": 13,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -47,8 +47,8 @@
   "name": "Minecraft-Community-Update",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-12-04T00:07:55.9174317Z",
-  "lastRefreshAttempt": "2021-12-04T03:10:34.7822445+03:00",
+  "lastPreviousMatchUpdate": "2021-12-04T09:58:10.6054787Z",
+  "lastRefreshAttempt": "2021-12-04T13:13:31.9303425+03:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.18",
@@ -157,7 +157,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 341284,
@@ -273,7 +273,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 515000,
@@ -766,7 +766,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 411848,
@@ -1134,7 +1134,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 354047,
@@ -1786,7 +1786,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 435044,
@@ -2264,7 +2264,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317780,
@@ -2696,7 +2696,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 535489,
@@ -2825,7 +2825,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 325471,
@@ -2949,85 +2949,98 @@
       "addonID": 401648,
       "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
       "installedFile": {
-        "id": 3542668,
-        "displayName": "BetterF3 Fabric 1.1.5 (1.18)",
-        "fileName": "BetterF3-1.1.5+1.18.jar",
-        "fileDate": "2021-11-30T22:23:44.33Z",
-        "fileLength": 1264876,
+        "id": 3548032,
+        "displayName": "BetterF3 Fabric v1.2.0 (1.18)",
+        "fileName": "BetterF3-1.2.0-Fabric-1.18.jar",
+        "fileDate": "2021-12-03T21:32:14.357Z",
+        "fileLength": 1260822,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3542/668/BetterF3-1.1.5+1.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3548/32/BetterF3-1.2.0-Fabric-1.18.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 79686301,
+            "id": 79934122,
             "addonId": 319057,
             "type": 1,
-            "fileId": 3542668
+            "fileId": 3548032
+          },
+          {
+            "id": 79934121,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3548032
           }
         ],
         "isAvailable": true,
         "modules": [
           {
+            "foldername": "BetterF3-common-refmap.json",
+            "fingerprint": 1765644986,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
             "foldername": "META-INF",
-            "fingerprint": 3562700525,
+            "fingerprint": 3271211922,
             "type": 3,
             "invalidFingerprint": false
           },
           {
-            "foldername": "LICENSE",
-            "fingerprint": 530245136,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "betterf3.mixins.json",
-            "fingerprint": 211968987,
+            "foldername": "architectury_inject_BetterF3_common_cdc04277935c416c99013d110e7051e4_91792e0a3a4b5750b339384d0bc682480a955f5a9ac960a267e64a4dc14a503dBetterF3120devjar",
+            "fingerprint": 3118992816,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "assets",
-            "fingerprint": 3471139865,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 1324640403,
+            "fingerprint": 391154959,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "betterf3.accesswidener",
-            "fingerprint": 1914890272,
+            "fingerprint": 1360619921,
             "type": 3,
             "invalidFingerprint": false
           },
           {
-            "foldername": "BetterF3-refmap.json",
-            "fingerprint": 2656765385,
+            "foldername": "betterf3.mixins.json",
+            "fingerprint": 552282975,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "com",
-            "fingerprint": 1587356712,
+            "fingerprint": 2465447335,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1987976311,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "icon.png",
+            "fingerprint": 773465483,
             "type": 3,
             "invalidFingerprint": false
           },
           {
             "foldername": "me",
-            "fingerprint": 2600294662,
+            "fingerprint": 2565641376,
             "type": 3,
             "invalidFingerprint": false
           }
         ],
-        "packageFingerprint": 2425780901,
+        "packageFingerprint": 2161180324,
         "gameVersion": [
           "Fabric",
-          "1.18"
+          "1.18",
+          "1.18-Snapshot"
         ],
         "sortableGameVersion": [
           {
@@ -3043,6 +3056,13 @@
             "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
             "gameVersionName": "1.18",
             "gameVersionTypeId": 73250
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+            "gameVersionName": "1.18-Snapshot",
+            "gameVersionTypeId": 73250
           }
         ],
         "hasInstallScript": false,
@@ -3050,20 +3070,20 @@
         "categorySectionPackageType": 6,
         "restrictProjectFileAccess": 1,
         "projectStatus": 4,
-        "renderCacheId": 2605344,
+        "renderCacheId": 2611425,
         "projectId": 401648,
-        "packageFingerprintId": 796768511,
+        "packageFingerprintId": 799331381,
         "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameVersionMappingId": 3511027,
+        "gameVersionMappingId": 3523646,
         "gameVersionId": 7499,
         "gameId": 432,
         "isServerPack": false,
-        "FileNameOnDisk": "BetterF3-1.1.5+1.18.jar"
+        "FileNameOnDisk": "BetterF3-1.2.0-Fabric-1.18.jar"
       },
-      "dateInstalled": "2021-12-03T12:02:14.3416696Z",
-      "dateUpdated": "2021-12-03T12:02:14.3416696Z",
+      "dateInstalled": "2021-12-04T09:58:10.5915163Z",
+      "dateUpdated": "2021-12-04T09:58:10.5915163Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3072,7 +3092,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 317121,
@@ -3424,6 +3444,116 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 422343,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3541937,
+        "displayName": "Loud Leads 1.18 v1.0.1",
+        "fileName": "LoudLeads-1.0.1+mc1.18.jar",
+        "fileDate": "2021-11-30T17:16:44.577Z",
+        "fileLength": 30064,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3541/937/LoudLeads-1.0.1+mc1.18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4060919422,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_LoudLeads",
+            "fingerprint": 3967148027,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "loudleads.mixins.json",
+            "fingerprint": 609639325,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2785979396,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1909320990,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LoudLeads-refmap.json",
+            "fingerprint": 3755229912,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1932369975,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2264328702,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2604543,
+        "projectId": 422343,
+        "packageFingerprintId": 796504851,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3508779,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "LoudLeads-1.0.1+mc1.18.jar"
+      },
+      "dateInstalled": "2021-12-04T10:02:14.7356391Z",
+      "dateUpdated": "2021-12-04T10:02:14.7356391Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 481530,
@@ -3792,6 +3922,135 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 403858,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3542157,
+        "displayName": "[1.18] BedrockIfy 1.3.0",
+        "fileName": "bedrockify-1.3.0+mc1.18.jar",
+        "fileDate": "2021-11-30T18:49:09.583Z",
+        "fileLength": 1119759,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3542/157/bedrockify-1.3.0+mc1.18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79669393,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3542157
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 975349643,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3819632614,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3118264282,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 3479613465,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bedrockify.accesswidener",
+            "fingerprint": 1050977558,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bedrockify.mixins.json",
+            "fingerprint": 1693623609,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 456956011,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "bedrockify-refmap.json",
+            "fingerprint": 1267427825,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 1017232688,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 508024931,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2604786,
+        "projectId": 403858,
+        "packageFingerprintId": 796586242,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3509464,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "bedrockify-1.3.0+mc1.18.jar"
+      },
+      "dateInstalled": "2021-12-04T10:13:06.9206559Z",
+      "dateUpdated": "2021-12-04T10:13:06.9206559Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 547434,
@@ -4251,7 +4510,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 527023,
@@ -4472,7 +4731,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 419758,
