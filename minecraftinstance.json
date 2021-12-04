@@ -29,8 +29,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-12-03T20:41:03.7582203Z",
-  "playedCount": 9,
+  "lastPlayed": "2021-12-04T00:13:29.9020296Z",
+  "playedCount": 12,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -40,15 +40,15 @@
   "modpackOverrides": null,
   "isMemoryOverride": true,
   "allocatedMemory": 4864,
-  "profileImagePath": null,
+  "profileImagePath": "D:\\Program Files\\CurseForge\\Minecraft\\Instances\\Minecraft-Community-Update\\profileImage\\animated.png",
   "guid": "7a9c96f9-78e9-4428-83c2-946900490d36",
   "gameTypeID": 432,
   "installPath": "D:\\Program Files\\CurseForge\\Minecraft\\Instances\\Minecraft-Community-Update\\",
   "name": "Minecraft-Community-Update",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-12-03T20:37:29.2167032Z",
-  "lastRefreshAttempt": "2021-12-03T23:44:53.9040546+03:00",
+  "lastPreviousMatchUpdate": "2021-12-04T00:07:55.9174317Z",
+  "lastRefreshAttempt": "2021-12-04T03:10:34.7822445+03:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.18",
@@ -148,6 +148,122 @@
       "dateInstalled": "2021-12-03T20:39:44.566241Z",
       "dateUpdated": "2021-12-03T20:39:44.5732222Z",
       "dateLastUpdateAttempted": "2021-12-03T20:39:44.5732222Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 341284,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3542826,
+        "displayName": "trinkets-3.1.0.jar",
+        "fileName": "trinkets-3.1.0.jar",
+        "fileDate": "2021-11-30T23:21:00.12Z",
+        "fileLength": 217333,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3542/826/trinkets-3.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 24266843,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_trinkets",
+            "fingerprint": 2150000053,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "trinkets.mixins.json",
+            "fingerprint": 3351121139,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3457257451,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1385201925,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 479894963,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "trinkets-refmap.json",
+            "fingerprint": 4273221730,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "dev",
+            "fingerprint": 574606635,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3390741003,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2605522,
+        "projectId": 341284,
+        "packageFingerprintId": 796810634,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3511400,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "trinkets-3.1.0.jar"
+      },
+      "dateInstalled": "2021-12-03T21:08:07.6468754Z",
+      "dateUpdated": "2021-12-03T21:08:07.6468754Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -536,6 +652,123 @@
       "installedTargets": null
     },
     {
+      "addonID": 411705,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3548092,
+        "displayName": "DamageTilt-1.18-fabric-0.1.2.jar",
+        "fileName": "DamageTilt-1.18-fabric-0.1.2.jar",
+        "fileDate": "2021-12-03T22:20:27.897Z",
+        "fileLength": 26871,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3548/92/DamageTilt-1.18-fabric-0.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79937415,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3548092
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 109259916,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 4137764840,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 453502629,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "damagetilt.mixins.json",
+            "fingerprint": 2190508717,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1653433855,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "DamageTilt-refmap.json",
+            "fingerprint": 1863609064,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 449528611,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 635937873,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2611491,
+        "projectId": 411705,
+        "packageFingerprintId": 799394907,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3523837,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "DamageTilt-1.18-fabric-0.1.2.jar"
+      },
+      "dateInstalled": "2021-12-04T00:10:34.5012258Z",
+      "dateUpdated": "2021-12-04T00:10:34.5012258Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 411848,
       "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
       "installedFile": {
@@ -765,6 +998,143 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 501456,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3477938,
+        "displayName": "Villager Hats 1.2.1",
+        "fileName": "villager-hats-mod-1.2.1.jar",
+        "fileDate": "2021-10-01T10:06:53.093Z",
+        "fileLength": 37527,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3477/938/villager-hats-mod-1.2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79720074,
+            "addonId": 341284,
+            "type": 3,
+            "fileId": 3477938
+          },
+          {
+            "id": 79720073,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3477938
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3616663579,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_villager-hats-mod",
+            "fingerprint": 3321934616,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "villager-hats.mixins.json",
+            "fingerprint": 3523088307,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2864402101,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1963657128,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 826788999,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "villager-hats-mod-refmap.json",
+            "fingerprint": 833983104,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ru",
+            "fingerprint": 2779960646,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1418550700,
+        "gameVersion": [
+          "1.17.1",
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000017.0000000001",
+            "gameVersion": "1.17.1",
+            "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+            "gameVersionName": "1.17.1",
+            "gameVersionTypeId": 73242
+          },
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2523057,
+        "projectId": 501456,
+        "packageFingerprintId": 754024757,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3347810,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "villager-hats-mod-1.2.1.jar"
+      },
+      "dateInstalled": "2021-12-03T21:08:11.1210524Z",
+      "dateUpdated": "2021-12-03T21:08:11.1210524Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 354047,
@@ -1768,6 +2138,135 @@
       "installedTargets": null
     },
     {
+      "addonID": 513689,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3548100,
+        "displayName": "Fabric-1.18-SmoothSwapping-0.4.3.jar",
+        "fileName": "Fabric-1.18-SmoothSwapping-0.4.3.jar",
+        "fileDate": "2021-12-03T22:24:32.47Z",
+        "fileLength": 898820,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3548/100/Fabric-1.18-SmoothSwapping-0.4.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79937525,
+            "addonId": 308702,
+            "type": 2,
+            "fileId": 3548100
+          },
+          {
+            "id": 79937524,
+            "addonId": 319057,
+            "type": 1,
+            "fileId": 3548100
+          },
+          {
+            "id": 79937526,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3548100
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 522595703,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE_Fabric-1.18-SmoothSwapping",
+            "fingerprint": 2226923820,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "smoothswapping.mixins.json",
+            "fingerprint": 4086740141,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 1398712116,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1109972842,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Fabric-1.18-SmoothSwapping-refmap.json",
+            "fingerprint": 4089755567,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "schauweg",
+            "fingerprint": 1856362842,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2151975597,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2611500,
+        "projectId": 513689,
+        "packageFingerprintId": 799395566,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3523854,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Fabric-1.18-SmoothSwapping-0.4.3.jar"
+      },
+      "dateInstalled": "2021-12-04T00:07:55.9154371Z",
+      "dateUpdated": "2021-12-04T00:07:55.9154371Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 317780,
       "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
       "installedFile": {
@@ -2564,7 +3063,7 @@
       "dateInstalled": "2021-12-03T12:02:14.3416696Z",
       "dateUpdated": "2021-12-03T12:02:14.3416696Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3863,6 +4362,117 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 534835,
+      "gameInstanceID": "7a9c96f9-78e9-4428-83c2-946900490d36",
+      "installedFile": {
+        "id": 3545317,
+        "displayName": "Load My Resources [Fabric] v1.0.1-1 MC 1.18",
+        "fileName": "loadmyresources_fabric_1.0.1-1_MC_1.18.jar",
+        "fileDate": "2021-12-02T16:41:46.207Z",
+        "fileLength": 61095,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3545/317/loadmyresources_fabric_1.0.1-1_MC_1.18.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 79832332,
+            "addonId": 306612,
+            "type": 3,
+            "fileId": 3545317
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 914276887,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "loadmyresources.mixin.json",
+            "fingerprint": 1610640389,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 4250732356,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 276855146,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "loadmyresources.mixin-refmap.json",
+            "fingerprint": 3099908537,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "de",
+            "fingerprint": 2488113460,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2202795304,
+        "gameVersion": [
+          "Fabric",
+          "1.18"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Fabric",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000018",
+            "gameVersion": "1.18",
+            "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+            "gameVersionName": "1.18",
+            "gameVersionTypeId": 73250
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2608417,
+        "projectId": 534835,
+        "packageFingerprintId": 798452054,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameVersionMappingId": 3518279,
+        "gameVersionId": 7499,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "loadmyresources_fabric_1.0.1-1_MC_1.18.jar"
+      },
+      "dateInstalled": "2021-12-03T20:44:53.7037722Z",
+      "dateUpdated": "2021-12-03T20:44:53.7037722Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 419758,
