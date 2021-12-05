@@ -1,0 +1,6 @@
+{
+    "parent":"block/better_leaves/leaves",
+    "textures": {
+        "all":"block/azalea_leaves"
+    }
+}

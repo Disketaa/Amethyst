@@ -1,0 +1,6 @@
+{
+    "parent":"block/better_leaves/leaves7",
+    "textures": {
+        "0":"block/birch_leaves"
+    }
+}

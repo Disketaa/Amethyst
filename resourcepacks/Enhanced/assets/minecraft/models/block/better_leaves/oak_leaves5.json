@@ -1,0 +1,6 @@
+{
+    "parent":"block/better_leaves/leaves5",
+    "textures": {
+        "0":"block/oak_leaves"
+    }
+}

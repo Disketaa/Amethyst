@@ -20,7 +20,7 @@ toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.0
+fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","file/Enhanced","file/Better Leaves"]
+resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","file/Enhanced"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

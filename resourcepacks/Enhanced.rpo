@@ -2,6 +2,7 @@
   "textures": {
     "alternative_crosshair": true,
     "authentic_shadows": true,
+    "better_leaves": false,
     "detailed_torches": true,
     "red_crimson_wood": true
   },

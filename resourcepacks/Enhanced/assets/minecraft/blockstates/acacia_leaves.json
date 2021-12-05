@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/better_leaves/acacia_leaves1" },
+			{ "model": "block/better_leaves/acacia_leaves2" },
+			{ "model": "block/better_leaves/acacia_leaves3" },
+			{ "model": "block/better_leaves/acacia_leaves4" },
+			{ "model": "block/better_leaves/acacia_leaves5" },
+			{ "model": "block/better_leaves/acacia_leaves6" },
+			{ "model": "block/better_leaves/acacia_leaves7" },
+			{ "model": "block/better_leaves/acacia_leaves8" }
+		]
+    }
+}

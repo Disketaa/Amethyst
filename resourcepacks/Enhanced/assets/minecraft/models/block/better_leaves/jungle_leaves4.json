@@ -1,0 +1,6 @@
+{
+    "parent":"block/better_leaves/leaves4",
+    "textures": {
+        "0":"block/jungle_leaves"
+    }
+}
