@@ -2,6 +2,7 @@
 crash-reports/*
 logs/*
 patched_shaders/*
+dashloader-cache/*
 saves/*
 XaeroWorldMap/*
 screenshots/*

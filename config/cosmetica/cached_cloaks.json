@@ -425,11 +425,6 @@
     "cloak": "golden"
   },
   {
-    "name": "MegaPig31",
-    "uuid": "c186bf70-d187-4ac4-898f-692ed30375a8",
-    "cloak": "crimson"
-  },
-  {
     "name": "sayhunter565",
     "uuid": "9fe4b3cf-29a5-4a63-aaaf-a46978e44964",
     "cloak": "pumpkin"
@@ -950,11 +945,6 @@
     "cloak": "mystic"
   },
   {
-    "name": "MintNo0dle",
-    "uuid": "3efabb45-d683-4ec2-927f-dbb40e369fd6",
-    "cloak": "mint"
-  },
-  {
     "name": "M4XT4STIC",
     "uuid": "15420198-218b-4ad6-a8a7-4f9576f007a7",
     "cloak": "trans"
@@ -1033,5 +1023,20 @@
     "name": "falldiagram9314",
     "uuid": "31dd1918-861f-439c-b4fd-cbec509a38a1",
     "cloak": "golden"
+  },
+  {
+    "name": "MegaPig31",
+    "uuid": "c186bf70-d187-4ac4-898f-692ed30375a8",
+    "cloak": "military"
+  },
+  {
+    "name": "RockyWharf",
+    "uuid": "1da753e1-b6c9-4574-9c2d-a523414faa39",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "MintNo0dle",
+    "uuid": "3efabb45-d683-4ec2-927f-dbb40e369fd6",
+    "cloak": "mint"
   }
 ]
