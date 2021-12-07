@@ -4,7 +4,8 @@
     "authentic_shadows": true,
     "better_leaves": true,
     "detailed_torches": true,
-    "red_crimson_wood": true
+    "red_crimson_wood": true,
+    "texture_variants": true
   },
   "misc": {
     "item_physics": true

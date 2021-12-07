@@ -1063,5 +1063,20 @@
     "name": "Spazzrocket",
     "uuid": "860a2ef1-579e-4700-9a05-ffebd4ec9a9a",
     "cloak": "swirly"
+  },
+  {
+    "name": "Skyda_X5",
+    "uuid": "57c2bbaf-ff16-4527-b34b-7e33f31982af",
+    "cloak": "flamingo"
+  },
+  {
+    "name": "Julizitrone",
+    "uuid": "63f0b03a-ebbf-4f10-b41e-f44d7a782a4c",
+    "cloak": "void"
+  },
+  {
+    "name": "ZaraPan",
+    "uuid": "c1addbf8-5a88-49db-832f-97844a7117d5",
+    "cloak": "trans"
   }
 ]

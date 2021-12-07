@@ -13,6 +13,8 @@
 	"rpo.tooltip.enhanced.textures.detailed_torches": "Подставка на настенных факелах §7©Psilock1",
 	"rpo.enhanced.textures.red_crimson_wood": "Багровые деревья",
 	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Изменение текстур багрового дерева на красные аналоги §7©Unknown",
+	"rpo.enhanced.textures.texture_variants": "Вариативные текстуры",
+	"rpo.tooltip.enhanced.textures.texture_variants": "Разные текстуры для одного блока §7©Mo_Shark",
 
 	"rpo.enhanced.misc.item_physics": "Физика предметов",
 	"rpo.tooltip.enhanced.misc.item_physics": "Имитация физики для предметов §7©Strideyyyn"

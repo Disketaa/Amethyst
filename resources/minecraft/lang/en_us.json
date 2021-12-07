@@ -13,6 +13,8 @@
 	"rpo.tooltip.enhanced.textures.detailed_torches": "Adds a stand for wall torch §7©Psilock1",
 	"rpo.enhanced.textures.red_crimson_wood": "Red Crimson Wood",
 	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Paint crimson wood in red colors §7©Unknown",
+	"rpo.enhanced.textures.texture_variants": "Texture Variants",
+	"rpo.tooltip.enhanced.textures.texture_variants": "Different textures on the same block §7©Mo_Shark",
 
 	"rpo.enhanced.misc.item_physics": "Item Physics",
 	"rpo.tooltip.enhanced.misc.item_physics": "Imitating item physic behaviour §7©Strideyyyn"

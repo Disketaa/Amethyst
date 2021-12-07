@@ -13,7 +13,7 @@ showButton = true
 
 [alternativeRecipes]
 onHover = true
-noGrouped = false
+noGrouped = true
 
 [scrolling]
 enableScrolling = true
