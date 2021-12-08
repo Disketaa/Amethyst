@@ -39,6 +39,9 @@ modifiers.key.okzoomer.zoom:
 modifiers.key.okzoomer.decrease_zoom:
 modifiers.key.okzoomer.increase_zoom:
 modifiers.key.okzoomer.reset_zoom:
+modifiers.key.origins.primary_active:
+modifiers.key.origins.secondary_active:
+modifiers.key.origins.view_origin:
 modifiers.gui.xaero_open_map:
 modifiers.gui.xaero_open_settings:
 modifiers.gui.xaero_map_zoom_in:

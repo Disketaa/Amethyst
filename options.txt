@@ -114,6 +114,9 @@ key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
+key_key.origins.primary_active:key.keyboard.r
+key_key.origins.secondary_active:key.mouse.4
+key_key.origins.view_origin:key.keyboard.o
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
