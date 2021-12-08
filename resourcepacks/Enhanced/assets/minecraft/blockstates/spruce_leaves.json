@@ -1,14 +1,14 @@
 {
     "variants": {
         "": [
-			{ "model": "block/better_leaves/spruce_leaves1" },
-			{ "model": "block/better_leaves/spruce_leaves2" },
-			{ "model": "block/better_leaves/spruce_leaves3" },
-			{ "model": "block/better_leaves/spruce_leaves4" },
-			{ "model": "block/better_leaves/spruce_leaves5" },
-			{ "model": "block/better_leaves/spruce_leaves6" },
-			{ "model": "block/better_leaves/spruce_leaves7" },
-			{ "model": "block/better_leaves/spruce_leaves8" }
+			{ "model": "block/leaves/spruce_leaves1" },
+			{ "model": "block/leaves/spruce_leaves2" },
+			{ "model": "block/leaves/spruce_leaves3" },
+			{ "model": "block/leaves/spruce_leaves4" },
+			{ "model": "block/leaves/spruce_leaves5" },
+			{ "model": "block/leaves/spruce_leaves6" },
+			{ "model": "block/leaves/spruce_leaves7" },
+			{ "model": "block/leaves/spruce_leaves8" }
 		]
     }
 }

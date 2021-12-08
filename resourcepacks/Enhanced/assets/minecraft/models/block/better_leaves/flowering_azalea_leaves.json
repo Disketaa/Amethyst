@@ -1,6 +1,0 @@
-{
-    "parent":"block/better_leaves/leaves",
-    "textures": {
-        "all":"block/flowering_azalea_leaves"
-    }
-}

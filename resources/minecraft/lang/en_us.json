@@ -6,18 +6,18 @@
 	"rpo.enhanced.textures.alternative_crosshair": "Alternative Crosshair",
 	"rpo.tooltip.enhanced.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
 	"rpo.enhanced.textures.authentic_shadows": "Authentic Shadows",
-	"rpo.tooltip.enhanced.textures.authentic_shadows": "Pixel consistently entity shadow §7©Liahim85",
+	"rpo.tooltip.enhanced.textures.authentic_shadows": "Pixel consistently entity shadows §7©Liahim85",
 	"rpo.enhanced.textures.better_leaves": "Better Leaves",
-	"rpo.tooltip.enhanced.textures.better_leaves": "Bushy and lushy leaves §7©Motschen",	
+	"rpo.tooltip.enhanced.textures.better_leaves": "Bushy leaves §7©Motschen",	
 	"rpo.enhanced.textures.detailed_torches": "Detailed Torches",
-	"rpo.tooltip.enhanced.textures.detailed_torches": "Adds a stand for wall torch §7©Psilock1",
+	"rpo.tooltip.enhanced.textures.detailed_torches": "Support for wall torches §7©Psilock1",
 	"rpo.enhanced.textures.red_crimson_wood": "Red Crimson Wood",
-	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Paint crimson wood in red colors §7©Unknown",
+	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Red colors for crimson wood §7©Unknown",
 	"rpo.enhanced.textures.texture_variants": "Texture Variants",
-	"rpo.tooltip.enhanced.textures.texture_variants": "Different textures on the same block §7©Mo_Shark",
+	"rpo.tooltip.enhanced.textures.texture_variants": "Random textures §7©Mo_Shark",
 
 	"rpo.enhanced.misc.item_physics": "Item Physics",
-	"rpo.tooltip.enhanced.misc.item_physics": "Imitating item physic behaviour §7©Strideyyyn"
+	"rpo.tooltip.enhanced.misc.item_physics": "Item physic behaviour §7©Strideyyyn"
 
 
 }

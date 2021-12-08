@@ -1,14 +1,14 @@
 {
     "variants": {
         "": [
-			{ "model": "block/better_leaves/jungle_leaves1" },
-			{ "model": "block/better_leaves/jungle_leaves2" },
-			{ "model": "block/better_leaves/jungle_leaves3" },
-			{ "model": "block/better_leaves/jungle_leaves4" },
-			{ "model": "block/better_leaves/jungle_leaves5" },
-			{ "model": "block/better_leaves/jungle_leaves6" },
-			{ "model": "block/better_leaves/jungle_leaves7" },
-			{ "model": "block/better_leaves/jungle_leaves8" }
+			{ "model": "block/leaves/jungle_leaves1" },
+			{ "model": "block/leaves/jungle_leaves2" },
+			{ "model": "block/leaves/jungle_leaves3" },
+			{ "model": "block/leaves/jungle_leaves4" },
+			{ "model": "block/leaves/jungle_leaves5" },
+			{ "model": "block/leaves/jungle_leaves6" },
+			{ "model": "block/leaves/jungle_leaves7" },
+			{ "model": "block/leaves/jungle_leaves8" }
 		]
     }
 }
