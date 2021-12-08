@@ -1,13 +1,16 @@
 {
   "textures": {
     "alternative_crosshair": true,
+    "authentic_orbs": true,
     "authentic_shadows": true,
     "better_leaves": true,
     "detailed_torches": true,
     "red_crimson_wood": true,
-    "texture_variants": true
+    "texture_variants": true,
+    "unsaturated_rain": true
   },
   "misc": {
-    "item_physics": true
+    "item_physics": true,
+    "unobtrusive_shield": true
   }
 }

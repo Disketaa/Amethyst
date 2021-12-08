@@ -7,17 +7,26 @@
 	"rpo.tooltip.enhanced.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
 	"rpo.enhanced.textures.authentic_shadows": "Authentic Shadows",
 	"rpo.tooltip.enhanced.textures.authentic_shadows": "Pixel consistently entity shadows §7©Liahim85",
+	"rpo.enhanced.textures.authentic_orbs": "Authentic Shadows",
+	"rpo.tooltip.enhanced.textures.authentic_orbs": "Pixel consistently experience orbs §7©Unknown",
 	"rpo.enhanced.textures.better_leaves": "Better Leaves",
 	"rpo.tooltip.enhanced.textures.better_leaves": "Bushy leaves §7©Motschen",	
 	"rpo.enhanced.textures.detailed_torches": "Detailed Torches",
 	"rpo.tooltip.enhanced.textures.detailed_torches": "Support for wall torches §7©Psilock1",
 	"rpo.enhanced.textures.red_crimson_wood": "Red Crimson Wood",
-	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Red colors for crimson wood §7©Unknown",
+	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Red colors for crimson wood §7©PaintTheFuture",
 	"rpo.enhanced.textures.texture_variants": "Texture Variants",
 	"rpo.tooltip.enhanced.textures.texture_variants": "Random textures §7©Mo_Shark",
+	"rpo.enhanced.textures.unsaturated_rain": "Unsaturated Rain",
+	"rpo.tooltip.enhanced.textures.unsaturated_rain": "Less vibrant rain §7©Disketaa",
+
+	"rpo.enhanced.textures.elytra": "Elytra",
+	"rpo.tooltip.enhanced.textures.elytra": "Elytra texture variants",
 
 	"rpo.enhanced.misc.item_physics": "Item Physics",
-	"rpo.tooltip.enhanced.misc.item_physics": "Item physic behaviour §7©Strideyyyn"
+	"rpo.tooltip.enhanced.misc.item_physics": "Item physic behaviour §7©Strideyyyn",
+	"rpo.enhanced.misc.unobtrusive_shield": "Unobtrusive Shield",
+	"rpo.tooltip.enhanced.misc.unobtrusive_shield": "Shields block much less of your vision §7©Disketaa"
 
 
 }
