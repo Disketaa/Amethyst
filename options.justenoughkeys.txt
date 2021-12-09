@@ -32,6 +32,9 @@ modifiers.key.hotbar.6:
 modifiers.key.hotbar.7:
 modifiers.key.hotbar.8:
 modifiers.key.hotbar.9:
+modifiers.key.inventory_control_tweaks.drag_out_of_inventory_modifier:
+modifiers.key.inventory_control_tweaks.click_armor_swap_modifier:
+modifiers.key.inventory_control_tweaks.drag_all_stacks_across_modifier:
 modifiers.iris.keybind.reload:key.keyboard.left.alt
 modifiers.iris.keybind.toggleShaders:
 modifiers.iris.keybind.shaderPackSelection:

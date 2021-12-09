@@ -12,8 +12,8 @@ instantCraft = false
 showButton = true
 
 [alternativeRecipes]
-onHover = true
-noGrouped = true
+onHover = false
+noGrouped = false
 
 [scrolling]
 enableScrolling = true
