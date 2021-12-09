@@ -44,7 +44,7 @@
 		   How rare are Underground Bastions in non-ocean and non-beach Overworld biomes.
 		   1 for spawning in most chunks and 10001 for none.
 		*/
-		"bastionUndergroundAverageChunkDistance": 400
+		"bastionUndergroundAverageChunkDistance": 600
 	},
 	"RSCitiesConfig": {
 		/* 
@@ -53,7 +53,7 @@
 		   How rare are Nether Cities in Nether biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"cityNetherAverageChunkDistance": 110
+		"cityNetherAverageChunkDistance": 165
 	},
 	"RSDungeonsConfig": {
 		"attemptsPerChunk": {
@@ -65,7 +65,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"badlandsDungeonAttemptsPerChunk": 6,
+			"badlandsDungeonAttemptsPerChunk": 9,
 			/* 
 			   
 			   
@@ -74,7 +74,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"darkForestDungeonAttemptsPerChunk": 8,
+			"darkForestDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -83,7 +83,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"desertDungeonAttemptsPerChunk": 8,
+			"desertDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -92,7 +92,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"jungleDungeonAttemptsPerChunk": 8,
+			"jungleDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -101,7 +101,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"mushroomDungeonAttemptsPerChunk": 8,
+			"mushroomDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -110,7 +110,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"snowDungeonAttemptsPerChunk": 8,
+			"snowDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -119,7 +119,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"icyDungeonAttemptsPerChunk": 8,
+			"icyDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -128,7 +128,7 @@
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			   Note: When set to 0, Vanilla Dungeons spawns again.
 			*/
-			"swampDungeonAttemptsPerChunk": 8,
+			"swampDungeonAttemptsPerChunk": 12,
 			/* 
 			   
 			   
@@ -136,7 +136,7 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"endDungeonAttemptsPerChunk": 12,
+			"endDungeonAttemptsPerChunk": 18,
 			/* 
 			   
 			   
@@ -144,7 +144,7 @@
 			   Spawn attempts per chunk.
 			   0 for no Dungeons at all and 1000 for max spawnrate.
 			*/
-			"netherDungeonAttemptsPerChunk": 12,
+			"netherDungeonAttemptsPerChunk": 18,
 			/* 
 			   
 			   
@@ -156,7 +156,7 @@
 			   is on which is unlike the other dungeons from this mod
 			   as those would normally replace the Vanilla Dungeons.
 			*/
-			"oceanDungeonAttemptsPerChunk": 3
+			"oceanDungeonAttemptsPerChunk": 5
 		},
 		"minHeight": {
 			/* 
@@ -336,32 +336,32 @@
 			   How rare are Jungle Fortresses.
 			   1 for spawning in most chunks and 1001 for none.
 			*/
-			"jungleFortressAverageChunkDistance": 50,
+			"jungleFortressAverageChunkDistance": 75,
 			/* 
 			   
 			   
 			   Size of the fortress. This is how many pieces long a branch can be from the start piece.
 			*/
-			"jungleFortressSize": 10,
+			"jungleFortressSize": 15,
 			/* 
 			   
 			   
 			   Min Y height that the starting point can spawn at.
 			*/
-			"jungleFortressMinHeight": 56,
+			"jungleFortressMinHeight": 84,
 			/* 
 			   
 			   
 			   Max Y height that the starting point can spawn at.
 			   If below min height, this will be read as min.
 			*/
-			"jungleFortressMaxHeight": 65,
+			"jungleFortressMaxHeight": 98,
 			/* 
 			   
 			   
 			   How far above or below the fortress's pieces can generate away from the center piece.
 			*/
-			"jungleFortressVerticalRange": 33
+			"jungleFortressVerticalRange": 50
 		}
 	},
 	"RSIgloosConfig": {
@@ -371,14 +371,14 @@
 		   How rare are Grassy Igloos in Plains and Forests.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"grassyIglooAverageChunkDistance": 24,
+		"grassyIglooAverageChunkDistance": 36,
 		/* 
 		   
 		   
 		   How rare are Stone Igloos in Giant Tree Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"stoneIglooAverageChunkDistance": 24
+		"stoneIglooAverageChunkDistance": 36
 	},
 	"RSMansionsConfig": {
 		/* 
@@ -394,11 +394,11 @@
 		   How rare are Birch Mansions in Birch biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionBirchAverageChunkDistance": 180,
+		"mansionBirchAverageChunkDistance": 270,
 		/* How rare are Jungle Mansions in Jungle biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionJungleAverageChunkDistance": 225,
+		"mansionJungleAverageChunkDistance": 338,
 		/* 
 		   
 		   
@@ -406,35 +406,35 @@
 		   biomes that are not birch or dark forest.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionOakAverageChunkDistance": 205,
+		"mansionOakAverageChunkDistance": 308,
 		/* 
 		   
 		   
 		   How rare are Savanna Mansions in Savanna biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionSavannaAverageChunkDistance": 225,
+		"mansionSavannaAverageChunkDistance": 338,
 		/* 
 		   
 		   
 		   How rare are Taiga Mansions in non-snowy Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionTaigaAverageChunkDistance": 205,
+		"mansionTaigaAverageChunkDistance": 308,
 		/* 
 		   
 		   
 		   How rare are Desert Mansions in Desert biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionDesertAverageChunkDistance": 225,
+		"mansionDesertAverageChunkDistance": 338,
 		/* 
 		   
 		   
 		   How rare are Snowy Mansions in Snowy biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"mansionSnowyAverageChunkDistance": 225
+		"mansionSnowyAverageChunkDistance": 338
 	},
 	"RSMineshaftsConfig": {
 		"spawnrate": {
@@ -446,7 +446,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"birchMineshaftSpawnrate": 10,
+			"birchMineshaftSpawnrate": 7,
 			/* 
 			   
 			   
@@ -455,7 +455,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"jungleMineshaftSpawnrate": 10,
+			"jungleMineshaftSpawnrate": 7,
 			/* 
 			   
 			   
@@ -464,7 +464,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"desertMineshaftSpawnrate": 10,
+			"desertMineshaftSpawnrate": 7,
 			/* 
 			   
 			   
@@ -473,7 +473,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"stoneMineshaftSpawnrate": 20,
+			"stoneMineshaftSpawnrate": 15,
 			/* 
 			   
 			   
@@ -482,7 +482,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"savannaMineshaftSpawnrate": 20,
+			"savannaMineshaftSpawnrate": 15,
 			/* 
 			   
 			   
@@ -492,7 +492,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"icyMineshaftSpawnrate": 20,
+			"icyMineshaftSpawnrate": 15,
 			/* 
 			   
 			   
@@ -501,7 +501,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"oceanMineshaftSpawnrate": 15,
+			"oceanMineshaftSpawnrate": 10,
 			/* 
 			   
 			   
@@ -510,7 +510,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"taigaMineshaftSpawnrate": 10,
+			"taigaMineshaftSpawnrate": 7,
 			/* 
 			   
 			   
@@ -519,7 +519,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"swampMineshaftSpawnrate": 10,
+			"swampMineshaftSpawnrate": 7,
 			/* 
 			   
 			   
@@ -528,7 +528,7 @@
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			   Note: Set this to 0 and restart to spawn Vanilla Mineshafts.
 			*/
-			"darkForestMineshaftSpawnrate": 10,
+			"darkForestMineshaftSpawnrate": 7,
 			/* 
 			   
 			   
@@ -536,7 +536,7 @@
 			   How often Mineshafts will spawn.
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			*/
-			"endMineshaftSpawnrate": 60,
+			"endMineshaftSpawnrate": 45,
 			/* 
 			   
 			   
@@ -544,7 +544,7 @@
 			   How often Mineshafts will spawn.
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			*/
-			"netherMineshaftSpawnrate": 40,
+			"netherMineshaftSpawnrate": 30,
 			/* 
 			   
 			   
@@ -552,7 +552,7 @@
 			   How often Mineshafts will spawn.
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			*/
-			"crimsonMineshaftSpawnrate": 40,
+			"crimsonMineshaftSpawnrate": 30,
 			/* 
 			   
 			   
@@ -560,7 +560,7 @@
 			   How often Mineshafts will spawn.
 			   0 for no Mineshafts and 1000 for max spawnrate.
 			*/
-			"warpedMineshaftSpawnrate": 40
+			"warpedMineshaftSpawnrate": 30
 		},
 		"minHeight": {
 			/* 
@@ -839,21 +839,21 @@
 		   How rare are Nether Brick Outposts in non-warped Nether biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherBrickOutpostAverageChunkDistance": 34,
+		"netherBrickOutpostAverageChunkDistance": 51,
 		/* 
 		   
 		   
 		   How rare are Warped Outposts in Warped Nether biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"warpedOutpostAverageChunkDistance": 34,
+		"warpedOutpostAverageChunkDistance": 51,
 		/* 
 		   
 		   
 		   How rare are Crimson Outposts in Warped Nether biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"crimsonOutpostAverageChunkDistance": 34,
+		"crimsonOutpostAverageChunkDistance": 51,
 		/* 
 		   
 		   
@@ -867,63 +867,63 @@
 		   How rare are Jungle Outposts in Jungle biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostJungleAverageChunkDistance": 49,
+		"outpostJungleAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are Giant Tree Taiga Outposts in Giant Tree Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostGiantTreeTaigaAverageChunkDistance": 49,
+		"outpostGiantTreeTaigaAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are Desert Outposts in Desert biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostDesertAverageChunkDistance": 49,
+		"outpostDesertAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are Badlands Outposts in Badlands biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostBadlandsAverageChunkDistance": 49,
+		"outpostBadlandsAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are Snowy Outposts in snowy biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostSnowyAverageChunkDistance": 49,
+		"outpostSnowyAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are Icy Outposts in icy/extremely cold biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostIcyAverageChunkDistance": 41,
+		"outpostIcyAverageChunkDistance": 62,
 		/* 
 		   
 		   
 		   How rare are Taiga Outposts in non-snowy and non-giant taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostTaigaAverageChunkDistance": 49,
+		"outpostTaigaAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are Oak Outposts in forest biomes that are not birch or dark forest.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostOakAverageChunkDistance": 49,
+		"outpostOakAverageChunkDistance": 74,
 		/* 
 		   
 		   
 		   How rare are End Outposts in End biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"outpostEndAverageChunkDistance": 61
+		"outpostEndAverageChunkDistance": 92
 	},
 	"RSPyramidsConfig": {
 		/* 
@@ -932,70 +932,70 @@
 		   How rare are Nether Pyramids in Nether.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidNetherAverageChunkDistance": 37,
+		"pyramidNetherAverageChunkDistance": 56,
 		/* 
 		   
 		   
 		   How rare are Badlands Pyramid in Badlands biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidBadlandsAverageChunkDistance": 40,
+		"pyramidBadlandsAverageChunkDistance": 60,
 		/* 
 		   
 		   
 		   How rare are Snowy Pyramid in snowy biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidSnowyAverageChunkDistance": 40,
+		"pyramidSnowyAverageChunkDistance": 60,
 		/* 
 		   
 		   
 		   How rare are End Pyramid in End biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidEndAverageChunkDistance": 68,
+		"pyramidEndAverageChunkDistance": 102,
 		/* 
 		   
 		   
 		   How rare are Icy Pyramid in biomes that are super cold or has icy words in its name.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidIcyAverageChunkDistance": 34,
+		"pyramidIcyAverageChunkDistance": 51,
 		/* 
 		   
 		   
 		   How rare are Jungle Pyramid in Jungle biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidJungleAverageChunkDistance": 44,
+		"pyramidJungleAverageChunkDistance": 66,
 		/* 
 		   
 		   
 		   How rare are Mushroom Pyramid in Mushroom biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidMushroomAverageChunkDistance": 24,
+		"pyramidMushroomAverageChunkDistance": 36,
 		/* 
 		   
 		   
 		   How rare are Ocean Pyramid in Ocean biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidOceanAverageChunkDistance": 40,
+		"pyramidOceanAverageChunkDistance": 60,
 		/* 
 		   
 		   
 		   How rare are Giant Tree Taiga Pyramid in Giant Tree Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidGiantTreeTaigaAverageChunkDistance": 40,
+		"pyramidGiantTreeTaigaAverageChunkDistance": 60,
 		/* 
 		   
 		   
 		   How rare are Flower Forest Pyramid in Flower Forest biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"pyramidFlowerForestAverageChunkDistance": 34
+		"pyramidFlowerForestAverageChunkDistance": 51
 	},
 	"RSRuinedPortalsConfig": {
 		/* 
@@ -1005,7 +1005,7 @@
 		   End category biomes. 1 for spawning in most
 		   chunks and 1001 for none.
 		*/
-		"ruinedPortalEndAverageChunkDistance": 57
+		"ruinedPortalEndAverageChunkDistance": 86
 	},
 	"RSRuinsConfig": {
 		/* 
@@ -1014,21 +1014,21 @@
 		   How rare are Nether Ruins in Nether category biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"ruinsNetherAverageChunkDistance": 35,
+		"ruinsNetherAverageChunkDistance": 53,
 		/* 
 		   
 		   
 		   How rare are Warm Land Ruins in Plains, Forests, Swamps, and non-snowy Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"ruinsLandWarmAverageChunkDistance": 45,
+		"ruinsLandWarmAverageChunkDistance": 68,
 		/* 
 		   
 		   
 		   How rare are Hot Land Ruins in Desert biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"ruinsLandHotAverageChunkDistance": 45
+		"ruinsLandHotAverageChunkDistance": 68
 	},
 	"RSShipwrecksConfig": {
 		/* 
@@ -1037,28 +1037,28 @@
 		   How rare are End Shipwreck in End Highlands biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"endShipwreckAverageChunkDistance": 24,
+		"endShipwreckAverageChunkDistance": 36,
 		/* 
 		   
 		   
 		   How rare are Nether Bricks Shipwreck in any non-warped or non-crimson Nether biome.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherBricksShipwreckAverageChunkDistance": 21,
+		"netherBricksShipwreckAverageChunkDistance": 32,
 		/* 
 		   
 		   
 		   How rare are Crimson Shipwreck in Crimson Nether biome.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"crimsonShipwreckAverageChunkDistance": 18,
+		"crimsonShipwreckAverageChunkDistance": 24,
 		/* 
 		   
 		   
 		   How rare are Warped Shipwreck in Warped Nether biome.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"warpedShipwreckAverageChunkDistance": 18
+		"warpedShipwreckAverageChunkDistance": 24
 	},
 	"RSStrongholdsConfig": {
 		"nether": {
@@ -1077,7 +1077,7 @@
 			   1 for spawning in most chunks and 10001 for no spawn.
 			   Note: Eyes of Ender will work and show the closest Nether Stronghold too.
 			*/
-			"netherStrongholdAverageChunkDistance": 100,
+			"netherStrongholdAverageChunkDistance": 150,
 			/* 
 			   
 			   
@@ -1108,7 +1108,7 @@
 			   1 for spawning in most chunks and 10001 for no spawn.
 			   Note: Eyes of Ender will work and show the closest End Stronghold too.
 			*/
-			"endStrongholdAverageChunkDistance": 130,
+			"endStrongholdAverageChunkDistance": 195,
 			/* 
 			   
 			   
@@ -1137,35 +1137,35 @@
 		   How rare are Nether Temples in Nether Wastelands.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherWastelandTempleAverageChunkDistance": 27,
+		"netherWastelandTempleAverageChunkDistance": 41,
 		/* 
 		   
 		   
 		   How rare are Nether Basalt Temples in Nether Basalt Delta biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherBasaltTempleAverageChunkDistance": 27,
+		"netherBasaltTempleAverageChunkDistance": 41,
 		/* 
 		   
 		   
 		   How rare are Nether Crimson Temples in Nether Crimson Forest.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherCrimsonTempleAverageChunkDistance": 27,
+		"netherCrimsonTempleAverageChunkDistance": 41,
 		/* 
 		   
 		   
 		   How rare are Nether Crimson Temples in Nether Warped Forest.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherWarpedTempleAverageChunkDistance": 27,
+		"netherWarpedTempleAverageChunkDistance": 41,
 		/* 
 		   
 		   
 		   How rare are Nether Soul Temples in Nether Soul Sand Valley.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"netherSoulTempleAverageChunkDistance": 27
+		"netherSoulTempleAverageChunkDistance": 41
 	},
 	"RSVillagesConfig": {
 		"spawnrate": {
@@ -1189,63 +1189,63 @@
 			   How rare are Dark Forest Villages in Dark Forest biomes.
 			   1 for spawning in most chunks and 1001 for no spawn.
 			*/
-			"darkForestVillageAverageChunkDistance": 47,
+			"darkForestVillageAverageChunkDistance": 56,
 			/* 
 			   
 			   
 			   How rare are Jungle Villages in Jungle biomes.
 			   1 for spawning in most chunks and 1001 for no spawn.
 			*/
-			"jungleVillageAverageChunkDistance": 52,
+			"jungleVillageAverageChunkDistance": 78,
 			/* 
 			   
 			   
 			   How rare are Swamp Villages in Swamp biomes.
 			   1 for spawning in most chunks and 1001 for no spawn.
 			*/
-			"swampVillageAverageChunkDistance": 52,
+			"swampVillageAverageChunkDistance": 56,
 			/* 
 			   
 			   
 			   How rare are Mountains Villages in Mountains biomes.
 			   1 for spawning in most chunks and 1001 for no spawn.
 			*/
-			"mountainsVillageAverageChunkDistance": 52,
+			"mountainsVillageAverageChunkDistance": 56,
 			/* 
 			   
 			   
 			   How rare are Giant Taiga Villages in Giant Taiga biomes.
 			   1 for spawning in most chunks and 1001 for no spawn.
 			*/
-			"giantTaigaVillageAverageChunkDistance": 47,
+			"giantTaigaVillageAverageChunkDistance": 456,
 			/* 
 			   
 			   
 			   How rare are Oak Villages in forest category biomes that are not birch or dark forest.
 			   1 for spawning in most chunks and 1001 for none.
 			*/
-			"oakVillageAverageChunkDistance": 52,
+			"oakVillageAverageChunkDistance": 78,
 			/* 
 			   
 			   
 			   How rare are Crimson Village in Crimson Forest biomes.
 			   1 for spawning in most chunks and 1001 for none.
 			*/
-			"crimsonVillageAverageChunkDistance": 30,
+			"crimsonVillageAverageChunkDistance": 45,
 			/* 
 			   
 			   
 			   How rare are Warped Village in Warped Forest biomes.
 			   1 for spawning in most chunks and 1001 for none.
 			*/
-			"warpedVillageAverageChunkDistance": 30,
+			"warpedVillageAverageChunkDistance": 45,
 			/* 
 			   
 			   
 			   How rare are Mushroom Villages.
 			   1 for spawning in most chunks and 1001 for none.
 			*/
-			"villageMushroomAverageChunkDistance": 24
+			"villageMushroomAverageChunkDistance": 36
 		},
 		"size": {
 			/* 
@@ -1379,34 +1379,34 @@
 		   How rare are Oak Witch Huts in Forest biomes that are not birch or dark oak.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"witchHutsOakAverageChunkDistance": 53,
+		"witchHutsOakAverageChunkDistance": 80,
 		/* 
 		   
 		   
 		   How rare are Taiga Witch Huts in Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"witchHutsTaigaAverageChunkDistance": 53,
+		"witchHutsTaigaAverageChunkDistance": 80,
 		/* 
 		   
 		   
 		   How rare are Birch Witch Huts in Birch biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"witchHutsBirchAverageChunkDistance": 53,
+		"witchHutsBirchAverageChunkDistance": 80,
 		/* 
 		   
 		   
 		   How rare are Dark Forest Witch Huts in Dark Forest biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"witchHutsDarkForestAverageChunkDistance": 53,
+		"witchHutsDarkForestAverageChunkDistance": 80,
 		/* 
 		   
 		   
 		   How rare are Giant Tree Taiga Witch Huts in Giant Tree Taiga biomes.
 		   1 for spawning in most chunks and 1001 for none.
 		*/
-		"witchHutsGiantTreeTaigaAverageChunkDistance": 53
+		"witchHutsGiantTreeTaigaAverageChunkDistance": 80
 	}
 }

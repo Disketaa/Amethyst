@@ -11,7 +11,13 @@
             "detailed_torches": true,
             "red_crimson_wood": true,
             "texture_variants": true,
-            "unsaturated_rain": true
+            "unsaturated_rain": true,
+
+            "elytra": [
+                "WIP",
+                "WIP",
+                "WIP"
+           ]
         },
 
         "misc": {
