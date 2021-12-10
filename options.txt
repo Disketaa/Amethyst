@@ -35,7 +35,7 @@ graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
-renderClouds:true
+renderClouds:fast
 resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","file/Enhanced"]
 incompatibleResourcePacks:[]
 lastServer:
