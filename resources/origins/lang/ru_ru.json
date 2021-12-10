@@ -66,7 +66,7 @@
   "power.origins.burning_wrath.description": "При горении вы наносите дополнительный урон.",
 
   "power.origins.hotblooded.name": "Горячая кровь",
-  "power.origins.hotblooded.description": "Из-за вашего горячего тела вы невосприимчивыми к воздействиям яда и голода.",
+  "power.origins.hotblooded.description": "Из-за вашего горячего тела вы невосприимчивыми к воздействиям негативных эффектов яда и голода.",
 
   "power.origins.water_vulnerability.name": "Гидрофобия",
   "power.origins.water_vulnerability.description": "Вы получаете урон с течением времени, находясь в контакте с водой.",
