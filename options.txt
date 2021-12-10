@@ -39,12 +39,12 @@ renderClouds:true
 resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","file/Enhanced"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:ru_ru
+lang:en_us
 soundDevice:OpenAL Soft on Headphones (High Definition Audio Device)
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
-textBackgroundOpacity:0.10211267605633803
+textBackgroundOpacity:0.1
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -54,7 +54,7 @@ overrideHeight:0
 heldItemTooltips:true
 chatHeightFocused:1.0
 chatDelay:0.0
-chatHeightUnfocused:0.44366195797920227
+chatHeightUnfocused:0.45
 chatScale:1.0
 chatWidth:1.0
 mipmapLevels:4
@@ -127,15 +127,15 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_pistorder.clear_display:key.keyboard.grave.accent
 soundCategory_master:0.5
-soundCategory_music:0.5070422
+soundCategory_music:0.5
 soundCategory_record:0.5
-soundCategory_weather:0.40492958
-soundCategory_block:0.40492958
-soundCategory_hostile:0.50352114
-soundCategory_neutral:0.50352114
-soundCategory_player:0.60211265
-soundCategory_ambient:0.40140846
-soundCategory_voice:0.5070422
+soundCategory_weather:0.4
+soundCategory_block:0.4
+soundCategory_hostile:0.5
+soundCategory_neutral:0.5
+soundCategory_player:0.6
+soundCategory_ambient:0.4
+soundCategory_voice:0.5
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

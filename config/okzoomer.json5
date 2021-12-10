@@ -29,7 +29,7 @@
 	},
 	values: {
 		// The divisor applied to the FOV when zooming.
-		zoom_divisor: 4.0,
+		zoom_divisor: 3.5,
 		// The minimum value that you can scroll down.
 		minimum_zoom_divisor: 1.0,
 		// The maximum value that you can scroll down.
