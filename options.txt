@@ -126,7 +126,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_pistorder.clear_display:key.keyboard.grave.accent
-soundCategory_master:0.5
+soundCategory_master:0.75
 soundCategory_music:0.5
 soundCategory_record:0.5
 soundCategory_weather:0.4
@@ -136,6 +136,9 @@ soundCategory_neutral:0.5
 soundCategory_player:0.6
 soundCategory_ambient:0.4
 soundCategory_voice:0.5
+soundCategory_ui:0.5
+soundCategory_chat:0.5
+soundCategory_effects:0.5
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

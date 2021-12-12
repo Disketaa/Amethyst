@@ -1,4 +1,5 @@
 enableBook = true
+enablePinning = true
 settingsButton = false
 darkMode = false
 keepCentered = false
