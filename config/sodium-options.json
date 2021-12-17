@@ -1,6 +1,6 @@
 {
   "quality": {
-    "weather_quality": "DEFAULT",
+    "weather_quality": "FAST",
     "leaves_quality": "DEFAULT",
     "enable_vignette": true
   },
@@ -13,7 +13,7 @@
   },
   "performance": {
     "chunk_builder_threads": 2,
-    "always_defer_chunk_updates": false,
+    "always_defer_chunk_updates": true,
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_particle_culling": true,
