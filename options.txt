@@ -35,8 +35,8 @@ graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
-renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","loadmyresources.hiddenpack","file/Enhanced"]
+renderClouds:true
+resourcePacks:["vanilla","Fabric Mods","file/Amethyst","loadmyresources.hiddenpack"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -107,6 +107,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.justenoughkeys.dropstack:key.keyboard.q
 key_key.inventory_control_tweaks.drag_out_of_inventory_modifier:key.keyboard.unknown
 key_key.inventory_control_tweaks.click_armor_swap_modifier:key.keyboard.unknown
 key_key.inventory_control_tweaks.drag_all_stacks_across_modifier:key.keyboard.unknown
@@ -136,7 +137,7 @@ soundCategory_neutral:0.5
 soundCategory_player:0.6
 soundCategory_ambient:0.4
 soundCategory_voice:0.5
-soundCategory_ui:0.5
+soundCategory_interface:0.4
 soundCategory_chat:0.5
 soundCategory_effects:0.5
 modelPart_cape:true
