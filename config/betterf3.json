@@ -2,7 +2,7 @@
 	"general": {
 		"animationSpeed": 2.0,
 		"disable_mod": false,
-		"background_color": 810569808,
+		"background_color": 1079005264,
 		"space_modules": false,
 		"shadow_text": false,
 		"animations": true,
@@ -28,7 +28,7 @@
 		{
 			"name": "empty",
 			"lines": {
-				"": true
+				"nothing": true
 			},
 			"enabled": true
 		}, 
@@ -37,11 +37,12 @@
 			"name_color": 14606046,
 			"value_color": 16777215,
 			"lines": {
-				"": true,
 				"id_fluid": true,
 				"fluid_tags": true,
 				"block_states": true,
+				"blank": true,
 				"targeted_block": true,
+				"blank2": true,
 				"block_tags": false,
 				"id_block": true,
 				"targeted_fluid": true,
@@ -53,7 +54,7 @@
 		{
 			"name": "empty",
 			"lines": {
-				"": true
+				"nothing": true
 			},
 			"enabled": true
 		}, 
@@ -87,19 +88,19 @@
 				"fps": true
 			},
 			"enabled": true,
-			"color_low": 16777215
+			"color_low": 16759739
 		}, 
 		{
 			"name": "empty",
 			"lines": {
-				"": true
+				"nothing": true
 			},
 			"enabled": true
 		}, 
 		{
-			"color_x": 16777215,
-			"color_y": 16777215,
-			"color_z": 16777215,
+			"color_x": 16759739,
+			"color_y": 11272107,
+			"color_z": 13224447,
 			"name": "coords",
 			"name_color": 14606046,
 			"lines": {
@@ -131,7 +132,7 @@
 		{
 			"name": "empty",
 			"lines": {
-				"": true
+				"nothing": true
 			},
 			"enabled": true
 		}, 

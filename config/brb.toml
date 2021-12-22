@@ -12,7 +12,7 @@ enableBounce = false
 showButton = true
 
 [alternativeRecipes]
-onHover = false
+onHover = true
 noGrouped = false
 
 [scrolling]
