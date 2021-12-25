@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "stormfest:charged_music_disc_stormfest"
+    },
+    "title": {"translate":"advancements.adventure.hi_voltage.title"},
+    "description": {"translate":"advancements.adventure.hi_voltage.description"},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:adventure/play_jukebox_in_meadows",
+  "criteria": {
+    "hi_voltage": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "stormfest:charged_music_disc_stormfest"
+          ]
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:jukebox"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

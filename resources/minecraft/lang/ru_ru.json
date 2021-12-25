@@ -1,4 +1,9 @@
 {
+    "advancements.adventure.adventuring.title": "В путешествие!",
+    "advancements.adventure.adventuring.description": "Время заглянуть во все уголки этого мира",	
+    "advancements.adventure.hi_voltage.title": "*Электронная* музыка",
+    "advancements.adventure.hi_voltage.description": "Призовите грозу, вставив заряженную пластинку в проигрыватель",
+
     "item.minecraft.music_disc_13.desc": "C418 - 13",
     "item.minecraft.music_disc_cat.desc": "C418 - Cat",
     "item.minecraft.music_disc_blocks.desc": "C418 - Blocks",

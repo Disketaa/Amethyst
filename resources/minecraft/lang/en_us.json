@@ -1,4 +1,9 @@
 {
+    "advancements.adventure.adventuring.title": "Wandering!",
+    "advancements.adventure.adventuring.description": "It's time to look up into all the corners of this world",	
+    "advancements.adventure.hi_voltage.title": "Hi, Volage!",
+    "advancements.adventure.hi_voltage.description": "Summon a thunderstorm using a Charged Music Disc",
+
     "item.minecraft.music_disc_13.desc": "C418 - 13",
     "item.minecraft.music_disc_cat.desc": "C418 - Cat",
     "item.minecraft.music_disc_blocks.desc": "C418 - Blocks",
