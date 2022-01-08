@@ -1,8 +1,0 @@
-{
-  "pistorder.push": "Сдвинет",
-  "pistorder.retract": "Retract",
-  "pistorder.block_count.pre": "",
-  "pistorder.block_count.post": " блоков",
-  "pistorder.clear_display": "Clear Pistorder display",
-  "pistorder.clear_display.hint": "Очищено"
-}
