@@ -45,5 +45,8 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": true
     }
-  }
+  },
+  "leafSpawners": [],
+  "fallSpawnRateFactor": 1.8,
+  "winterSpawnRateFactor": 0.1
 }

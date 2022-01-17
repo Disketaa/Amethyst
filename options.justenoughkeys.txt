@@ -36,6 +36,7 @@ modifiers.key.justenoughkeys.dropstack:
 modifiers.key.inventory_control_tweaks.drag_out_of_inventory_modifier:key.keyboard.left.control
 modifiers.key.inventory_control_tweaks.click_armor_swap_modifier:key.keyboard.right.shift
 modifiers.key.inventory_control_tweaks.drag_all_stacks_across_modifier:key.keyboard.left.alt
+modifiers.key.inventorysorter.sort:
 modifiers.iris.keybind.reload:key.keyboard.left.alt
 modifiers.iris.keybind.toggleShaders:
 modifiers.iris.keybind.shaderPackSelection:
@@ -51,4 +52,3 @@ modifiers.gui.xaero_open_settings:
 modifiers.gui.xaero_map_zoom_in:
 modifiers.gui.xaero_map_zoom_out:
 modifiers.gui.xaero_quick_confirm:key.keyboard.right.shift
-modifiers.pistorder.clear_display:
