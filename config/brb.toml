@@ -1,4 +1,4 @@
-enablePinning = true
+enablePinning = false
 darkMode = false
 keepCentered = true
 settingsButton = false
@@ -17,4 +17,4 @@ noGrouped = false
 
 [scrolling]
 enableScrolling = true
-scrollAround = true
+scrollAround = false

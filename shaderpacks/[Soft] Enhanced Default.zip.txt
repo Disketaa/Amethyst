@@ -1,0 +1,14 @@
+#Sun Apr 10 17:48:38 MSK 2022
+shadowDistance=90.0
+SSAO=true
+MB_strength=0.008
+emissive_R=0.0
+shadowMapResolution=1024
+TAA=false
+Colorboost=true
+skyReflection=false
+Refractions=false
+emissive_B=0.0
+gamma=1.7
+emissive_G=0.0
+grays_quality=1

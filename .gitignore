@@ -1,5 +1,6 @@
 .fabric/*
 crash-reports/*
+resourcepacks/*
 logs/*
 patched_shaders/*
 dashloader-cache/*
@@ -13,7 +14,5 @@ usernamecache.json
 realms_persistence.json
 minecraftinstance.json
 .curseclient
-brb.pins
 profileImage/animated.png
-options.txt
 BTLib.dll
