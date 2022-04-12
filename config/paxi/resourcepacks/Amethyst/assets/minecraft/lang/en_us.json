@@ -17,6 +17,7 @@
 
 	"rpo.enhanced": "Configuration",
 	"rpo.enhanced.textures": "Textures",
+	"rpo.enhanced.sounds": "Sounds",
 	"rpo.enhanced.misc": "Miscellaneous",
 
 	"rpo.enhanced.textures.alternative_crosshair": "Alternative Crosshair",
@@ -36,8 +37,11 @@
 	"rpo.enhanced.textures.unsaturated_rain": "Unsaturated Rain",
 	"rpo.tooltip.enhanced.textures.unsaturated_rain": "Less vibrant rain §7©Disketaa",
 
-	"rpo.enhanced.textures.elytra": "Elytra",
+	"rpo.enhanced.textures.elytra": "Elytra §8WIP",
 	"rpo.tooltip.enhanced.textures.elytra": "Elytra texture variants",
+
+	"rpo.enhanced.sounds.weather": "Weather §8WIP",
+	"rpo.tooltip.enhanced.sounds.weather": "Rain and thudner ambience",
 
 	"rpo.enhanced.misc.item_physics": "Item Physics",
 	"rpo.tooltip.enhanced.misc.item_physics": "Item physic behaviour §7©Strideyyyn",

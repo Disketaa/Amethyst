@@ -6,6 +6,9 @@ patched_shaders/*
 dashloader-cache/*
 saves/*
 XaeroWorldMap/*
+XaeroWaypoints/*
+XaeroWaypoints_BACKUP*/*
+options.justenoughkeys.txt
 screenshots/*
 servers.dat
 servers.dat_old

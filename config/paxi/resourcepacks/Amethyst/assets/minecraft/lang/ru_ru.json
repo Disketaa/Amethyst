@@ -17,6 +17,7 @@
 
 	"rpo.enhanced": "Настройки набора ресурсов",
 	"rpo.enhanced.textures": "Текстуры",
+	"rpo.enhanced.sounds": "Звуки",
 	"rpo.enhanced.misc": "Разное",
 
 	"rpo.enhanced.textures.alternative_crosshair": "Альтернативный курсор",
@@ -36,8 +37,11 @@
 	"rpo.enhanced.textures.unsaturated_rain": "Ненасыщенный дождь",
 	"rpo.tooltip.enhanced.textures.unsaturated_rain": "Менее голубой дождь §7©Disketaa",
 
-	"rpo.enhanced.textures.elytra": "Элитры",
+	"rpo.enhanced.textures.elytra": "Элитры §8В разработке",
 	"rpo.tooltip.enhanced.textures.elytra": "Вариации для элитр",
+
+	"rpo.enhanced.sounds.weather": "Погода §8В разработке",
+	"rpo.tooltip.enhanced.sounds.weather": "Эмбиент дождя и грома",
 
 	"rpo.enhanced.misc.item_physics": "Физика предметов",
 	"rpo.tooltip.enhanced.misc.item_physics": "Имитация физики для предметов §7©Strideyyyn",

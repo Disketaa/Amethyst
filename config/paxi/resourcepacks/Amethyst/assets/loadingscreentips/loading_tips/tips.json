@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "tips": [
+"text.loadingscreentips.tip.bundle",
+"text.loadingscreentips.tip.deathpoints",
+"text.loadingscreentips.tip.elytra",
+"text.loadingscreentips.tip.equipable_banner",
+"text.loadingscreentips.tip.glowing_banner",
+"text.loadingscreentips.tip.hats",
+"text.loadingscreentips.tip.inventory_sorting",
+"text.loadingscreentips.tip.recipe_book",
+"text.loadingscreentips.tip.resourcepack_settings",
+"text.loadingscreentips.tip.stormfest",
+"text.loadingscreentips.tip.waypoints",
+"text.loadingscreentips.tip.worldmap",
+"text.loadingscreentips.tip.zooming"
+  ]
+}

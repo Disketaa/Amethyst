@@ -10,6 +10,9 @@
     "unsaturated_rain": true,
     "elytra": "WIP"
   },
+  "sounds": {
+    "weather": false
+  },
   "misc": {
     "item_physics": true,
     "unobtrusive_shield": true
