@@ -1,5 +1,5 @@
 {
-
+	// Minecraft
     "item.minecraft.music_disc_13.desc": "C418 - 13",
     "item.minecraft.music_disc_cat.desc": "C418 - Cat",
     "item.minecraft.music_disc_blocks.desc": "C418 - Blocks",
@@ -15,38 +15,41 @@
     "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep",
     "item.minecraft.music_disc_otherside.desc": "Lena Raine - Otherside",
 
-	"rpo.enhanced": "Configuration",
-	"rpo.enhanced.textures": "Textures",
-	"rpo.enhanced.sounds": "Sounds",
-	"rpo.enhanced.misc": "Miscellaneous",
-
-	"rpo.enhanced.textures.alternative_crosshair": "Alternative Crosshair",
-	"rpo.tooltip.enhanced.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
-	"rpo.enhanced.textures.authentic_shadows": "Authentic Shadows",
-	"rpo.tooltip.enhanced.textures.authentic_shadows": "Pixel consistently entity shadows §7©Liahim85",
-	"rpo.enhanced.textures.authentic_orbs": "Authentic Orbs",
-	"rpo.tooltip.enhanced.textures.authentic_orbs": "Pixel consistently experience orbs §7©Unknown",
-	"rpo.enhanced.textures.better_leaves": "Better Leaves",
-	"rpo.tooltip.enhanced.textures.better_leaves": "Bushy leaves §7©Motschen",	
-	"rpo.enhanced.textures.detailed_torches": "Detailed Torches",
-	"rpo.tooltip.enhanced.textures.detailed_torches": "Support for wall torches §7©Psilock1",
-	"rpo.enhanced.textures.red_crimson_wood": "Red Crimson Wood",
-	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Red colors for crimson wood §7©PaintTheFuture",
-	"rpo.enhanced.textures.texture_variants": "Texture Variants",
-	"rpo.tooltip.enhanced.textures.texture_variants": "Random textures §7©Mo_Shark",
-	"rpo.enhanced.textures.unsaturated_rain": "Unsaturated Rain",
-	"rpo.tooltip.enhanced.textures.unsaturated_rain": "Less vibrant rain §7©Disketaa",
-
-	"rpo.enhanced.textures.elytra": "Elytra §8WIP",
-	"rpo.tooltip.enhanced.textures.elytra": "Elytra texture variants",
-
-	"rpo.enhanced.sounds.weather": "Weather §8WIP",
-	"rpo.tooltip.enhanced.sounds.weather": "Rain and thudner ambience",
-
-	"rpo.enhanced.misc.item_physics": "Item Physics",
-	"rpo.tooltip.enhanced.misc.item_physics": "Item physic behaviour §7©Strideyyyn",
-	"rpo.enhanced.misc.unobtrusive_shield": "Unobtrusive Shield",
-	"rpo.tooltip.enhanced.misc.unobtrusive_shield": "Shields block much less of your vision §7©Disketaa"
 
 
+    // ResourcePackOptions
+	"rpo.amethyst": "Configuration",
+	"rpo.amethyst.textures": "Textures",
+	"rpo.amethyst.sounds": "Sounds",
+	"rpo.amethyst.misc": "Miscellaneous",
+
+	"rpo.amethyst.textures.accurate_item_textures": "Accurate Item Textures",
+	"rpo.amethyst.textures.alternative_crosshair": "Alternative Crosshair",
+	"rpo.amethyst.textures.authentic_shadows": "Authentic Shadows",
+	"rpo.amethyst.textures.authentic_orbs": "Authentic Orbs",
+	"rpo.amethyst.textures.better_leaves": "Better Leaves",
+	"rpo.amethyst.textures.block_texture_variants": "Block Texture Variants",
+	"rpo.amethyst.textures.detailed_torches": "Detailed Torches",
+	"rpo.amethyst.textures.unsaturated_rain": "Unsaturated Rain",
+	//
+	"rpo.amethyst.sounds.weather": "Weather",
+	//
+	"rpo.amethyst.misc.item_physics": "Item Physics",
+	"rpo.amethyst.misc.unobtrusive_shield": "Unobtrusive Shield",
+
+
+	"rpo.tooltip.amethyst.textures.accurate_item_textures": "Vanilla-based new item textures §7©Disketaa, ©Vectorwing",
+	"rpo.tooltip.amethyst.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
+	"rpo.tooltip.amethyst.textures.authentic_shadows": "Pixel consistently entity shadows §7©Liahim85",
+	"rpo.tooltip.amethyst.textures.authentic_orbs": "Pixel consistently experience orbs §7©Unknown",
+	"rpo.tooltip.amethyst.textures.better_leaves": "Bushy leaves §7©Motschen",	
+	"rpo.tooltip.amethyst.textures.block_texture_variants": "Block variate textures §7©Mo_Shark",
+	"rpo.tooltip.amethyst.textures.detailed_torches": "Torch bracket §7©Psilock1",
+	"rpo.tooltip.amethyst.textures.unsaturated_rain": "Less vibrant rain §7©Disketaa",
+	"rpo.tooltip.amethyst.textures.elytra": "Elytra texture variants",
+	//
+	"rpo.tooltip.amethyst.sounds.weather": "Rain and thunder ambience §7©Disketaa",
+	//
+	"rpo.tooltip.amethyst.misc.item_physics": "Dropped items physic behaviour §7©Strideyyyn",
+	"rpo.tooltip.amethyst.misc.unobtrusive_shield": "Shields block less vision §7©Disketaa"
 }

@@ -5,7 +5,7 @@
     "updrafts": true,
     "soulstorms": true,
     "endlessnweather": false,
-    "dodenserain": true,
+    "dodenserain": false,
     "sandstorms": true,
     "redsandstorms": true,
     "blizzards": true,
@@ -47,6 +47,6 @@
     "blizzardsnow": true,
     "rain": false,
     "heavyrain": false,
-    "rainsplash": false
+    "rainsplash": true
   }
 }

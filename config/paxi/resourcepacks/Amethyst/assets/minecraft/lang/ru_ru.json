@@ -1,5 +1,5 @@
 {
-
+	// Minecraft
     "item.minecraft.music_disc_13.desc": "C418 - 13",
     "item.minecraft.music_disc_cat.desc": "C418 - Cat",
     "item.minecraft.music_disc_blocks.desc": "C418 - Blocks",
@@ -15,36 +15,41 @@
     "item.minecraft.music_disc_pigstep.desc": "Лена Рейн - Pigstep",
     "item.minecraft.music_disc_otherside.desc": "Лена Рейн - Otherside",
 
-	"rpo.enhanced": "Настройки набора ресурсов",
-	"rpo.enhanced.textures": "Текстуры",
-	"rpo.enhanced.sounds": "Звуки",
-	"rpo.enhanced.misc": "Разное",
 
-	"rpo.enhanced.textures.alternative_crosshair": "Альтернативный курсор",
-	"rpo.tooltip.enhanced.textures.alternative_crosshair": "Курсор в виде 4-х точек §7©Disketaa",
-	"rpo.enhanced.textures.authentic_shadows": "Аутентичные тени",
-	"rpo.tooltip.enhanced.textures.authentic_shadows": "Пиксельные тени сущностей §7©Liahim85",
-	"rpo.enhanced.textures.authentic_orbs": "Аутентичные частицы",
-	"rpo.tooltip.enhanced.textures.authentic_orbs": "Пиксельные частицы опыта §7©Unknown",
-	"rpo.enhanced.textures.better_leaves": "Улучшенная листва",
-	"rpo.tooltip.enhanced.textures.better_leaves": "Пышные блоки листвы §7©Motschen",		
-	"rpo.enhanced.textures.detailed_torches": "Детализированные факела",
-	"rpo.tooltip.enhanced.textures.detailed_torches": "Подставка для настенных факелов §7©Psilock1",
-	"rpo.enhanced.textures.red_crimson_wood": "Багровые деревья",
-	"rpo.tooltip.enhanced.textures.red_crimson_wood": "Красное багровое дерево §7©PaintTheFuture",
-	"rpo.enhanced.textures.texture_variants": "Вариативные текстуры",
-	"rpo.tooltip.enhanced.textures.texture_variants": "Разные текстуры §7©Mo_Shark",
-	"rpo.enhanced.textures.unsaturated_rain": "Ненасыщенный дождь",
-	"rpo.tooltip.enhanced.textures.unsaturated_rain": "Менее голубой дождь §7©Disketaa",
 
-	"rpo.enhanced.textures.elytra": "Элитры §8В разработке",
-	"rpo.tooltip.enhanced.textures.elytra": "Вариации для элитр",
+    // ResourcePackOptions
+	"rpo.amethyst": "Настройки",
+	"rpo.amethyst.textures": "Текстуры",
+	"rpo.amethyst.sounds": "Звуки",
+	"rpo.amethyst.misc": "Разное",
 
-	"rpo.enhanced.sounds.weather": "Погода §8В разработке",
-	"rpo.tooltip.enhanced.sounds.weather": "Эмбиент дождя и грома",
+	"rpo.amethyst.textures.accurate_item_textures": "Аккуратные текстуры",
+	"rpo.amethyst.textures.alternative_crosshair": "Альтернативный курсор",
+	"rpo.amethyst.textures.authentic_shadows": "Аутентичные тени",
+	"rpo.amethyst.textures.authentic_orbs": "Аутентичные частицы",
+	"rpo.amethyst.textures.better_leaves": "Улучшенная листва",
+	"rpo.amethyst.textures.block_texture_variants": "Вариативные текстуры блоков",
+	"rpo.amethyst.textures.detailed_torches": "Детализированные факела",
+	"rpo.amethyst.textures.unsaturated_rain": "Ненасыщенный дождь",
+	//
+	"rpo.amethyst.sounds.weather": "Погода",
+	//
+	"rpo.amethyst.misc.item_physics": "Физика предметов",
+	"rpo.amethyst.misc.unobtrusive_shield": "Щит",
 
-	"rpo.enhanced.misc.item_physics": "Физика предметов",
-	"rpo.tooltip.enhanced.misc.item_physics": "Имитация физики для предметов §7©Strideyyyn",
-	"rpo.enhanced.misc.unobtrusive_shield": "Незаметный щит",
-	"rpo.tooltip.enhanced.misc.unobtrusive_shield": "Более скрытый щит в режиме от первого лица §7©Disketaa"
+
+	"rpo.tooltip.amethyst.textures.accurate_item_textures": "Новые текстуры для некоторых предметов §7©Disketaa, ©Vectorwing",
+	"rpo.tooltip.amethyst.textures.alternative_crosshair": "Курсор в виде 4-х точек §7©Disketaa",
+	"rpo.tooltip.amethyst.textures.authentic_shadows": "Пиксельные тени сущностей §7©Liahim85",
+	"rpo.tooltip.amethyst.textures.authentic_orbs": "Пиксельные частицы опыта §7©Unknown",
+	"rpo.tooltip.amethyst.textures.better_leaves": "Объемные блоки листвы §7©Motschen",		
+	"rpo.tooltip.amethyst.textures.block_texture_variants": "Вариации текстур для блоков §7©Mo_Shark",
+	"rpo.tooltip.amethyst.textures.detailed_torches": "Подставка для факелов §7©Psilock1",
+	"rpo.tooltip.amethyst.textures.unsaturated_rain": "Менее контрастный дождь §7©Disketaa",
+	"rpo.tooltip.amethyst.textures.elytra": "Вариации для элитр",
+	//
+	"rpo.tooltip.amethyst.sounds.weather": "Дождь и гром §7©Disketaa",
+	//
+	"rpo.tooltip.amethyst.misc.item_physics": "Имитация физики для упавших предметов §7©Strideyyyn",
+	"rpo.tooltip.amethyst.misc.unobtrusive_shield": "Более скрытый щит в режиме от первого лица §7©Disketaa"
 }

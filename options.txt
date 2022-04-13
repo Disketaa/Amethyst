@@ -17,10 +17,10 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
-fov:0.5
+fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
@@ -29,14 +29,14 @@ simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:120
+maxFps:60
 difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","Amethyst"]
+resourcePacks:["vanilla","Fabric Mods","Amethyst","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -66,10 +66,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -110,9 +110,9 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_iris.keybind.reload:key.keyboard.left.bracket
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.right.bracket
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 key_key.spyglass-improvements.use:key.keyboard.c
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
@@ -130,21 +130,21 @@ key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.y
+key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
-soundCategory_master:0.50827813
+soundCategory_master:0.5066225
 soundCategory_music:1.0
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.7077465
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.7077465
 soundCategory_voice:1.0
 soundCategory_extrasounds_master:0.80144405
 soundCategory_inventory:0.705298

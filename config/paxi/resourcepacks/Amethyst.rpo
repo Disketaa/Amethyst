@@ -1,17 +1,16 @@
 {
   "textures": {
+    "accurate_item_textures": true,
     "alternative_crosshair": true,
     "authentic_orbs": true,
     "authentic_shadows": true,
     "better_leaves": true,
+    "block_texture_variants": true,
     "detailed_torches": true,
-    "red_crimson_wood": true,
-    "texture_variants": true,
-    "unsaturated_rain": true,
-    "elytra": "WIP"
+    "unsaturated_rain": true
   },
   "sounds": {
-    "weather": false
+    "weather": true
   },
   "misc": {
     "item_physics": true,

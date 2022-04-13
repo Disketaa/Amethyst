@@ -1,18 +1,18 @@
 {
   "replace": false,
   "tips": [
-"text.loadingscreentips.tip.bundle",
-"text.loadingscreentips.tip.deathpoints",
-"text.loadingscreentips.tip.elytra",
-"text.loadingscreentips.tip.equipable_banner",
-"text.loadingscreentips.tip.glowing_banner",
-"text.loadingscreentips.tip.hats",
-"text.loadingscreentips.tip.inventory_sorting",
-"text.loadingscreentips.tip.recipe_book",
-"text.loadingscreentips.tip.resourcepack_settings",
-"text.loadingscreentips.tip.stormfest",
-"text.loadingscreentips.tip.waypoints",
-"text.loadingscreentips.tip.worldmap",
-"text.loadingscreentips.tip.zooming"
+    "text.loadingscreentips.tip.mod1",
+    "text.loadingscreentips.tip.recipe1",
+    "text.loadingscreentips.tip.recipe2",
+    "text.loadingscreentips.tip.gameplay1",
+    "text.loadingscreentips.tip.gameplay2",
+    "text.loadingscreentips.tip.gameplay3",
+    "text.loadingscreentips.tip.gameplay4",
+    "text.loadingscreentips.tip.gameplay5",
+    "text.loadingscreentips.tip.key1",
+    "text.loadingscreentips.tip.key2",
+    "text.loadingscreentips.tip.key3",
+    "text.loadingscreentips.tip.key4",
+    "text.loadingscreentips.tip.misc1"
   ]
 }

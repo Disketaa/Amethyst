@@ -1,16 +1,21 @@
 {
   "text.loadingscreentips.tip": "§eⓘ Новое:",
-  "text.loadingscreentips.tip.bundle": "§7Рецепт создания §fмешка",
-  "text.loadingscreentips.tip.deathpoints": "§7Точки смерти появляются на вашей §fкарте",
-  "text.loadingscreentips.tip.elytra": "§fЭлитры §7можно покрасить или наложить на них узор",
-  "text.loadingscreentips.tip.equipable_banner": "§fФлаг §7можно надеть в специальный слот для брони",
-  "text.loadingscreentips.tip.glowing_banner": "§fФлаг §7можно обмакнуть в §fсветящиеся чернила",
-  "text.loadingscreentips.tip.hats": "§7Рецепт создания §fголовных уборов §7жителей",
-  "text.loadingscreentips.tip.inventory_sorting": "§7Сортировка инвентаря клавишей [§fR§7]",
-  "text.loadingscreentips.tip.recipe_book": "§7Дополнительные функции для §fкниги рецептов",
-  "text.loadingscreentips.tip.resourcepack_settings": "§7Настраиваемый встроенный §fресурс-пак",
-  "text.loadingscreentips.tip.stormfest": "§7Уникальная §fпластинка§7, вызывающая грозу",
-  "text.loadingscreentips.tip.waypoints":"§7Добавление §fметок §7на карту клавишей [§fB§7]",
-  "text.loadingscreentips.tip.worldmap":"§7Открывайте §fбольшую карту §7клавишей [§fM§7]",
-  "text.loadingscreentips.tip.zooming": "§7Быстрое использование §fподзорной трубы §7из клавишей [§fС§7]"
+// Моды
+  "text.loadingscreentips.tip.mod1": "§7Уникальная §fпластинка§7, вызывающая грозу",
+// Рецепты
+  "text.loadingscreentips.tip.recipe1": "§7Рецепт создания §fмешка",
+  "text.loadingscreentips.tip.recipe2": "§7Рецепт создания §fшапок §7жителей",
+// Механики
+  "text.loadingscreentips.tip.gameplay1": "§fГоловы игроков §7выпадают после их убийства",
+  "text.loadingscreentips.tip.gameplay2": "§7На §fэлитры §7можно наложить узор или покрасить их",
+  "text.loadingscreentips.tip.gameplay3": "§fФлаг §7можно надеть в специальный слот брони",
+  "text.loadingscreentips.tip.gameplay4": "§fФлаг §7можно обмакнуть в §fсветящиеся чернила",
+  "text.loadingscreentips.tip.gameplay5": "§7Дополнительные функции для §fкниги рецептов",
+// Клавиши
+  "text.loadingscreentips.tip.key1": "§fСортировка инвентаря §7клавишей [§fR§7]",
+  "text.loadingscreentips.tip.key2":"§7Добавление §fметок §7на карту клавишей [§fB§7]",
+  "text.loadingscreentips.tip.key3":"§7Открытие §fкарты §7клавишей [§fM§7]",
+  "text.loadingscreentips.tip.key4": "§7Быстрое использование §fподзорной трубы §7клавишей [§fС§7]",
+// Разное
+  "text.loadingscreentips.tip.misc1": "§7Настраиваемый встроенный §fресурс-пак"
 }

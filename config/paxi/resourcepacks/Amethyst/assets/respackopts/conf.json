@@ -1,23 +1,17 @@
 {
-    "id": "enhanced",
+    "id": "amethyst",
     "version": 6,
     "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "textures": {
+            "accurate_item_textures": true,
             "alternative_crosshair": true,
             "authentic_orbs": true,
             "authentic_shadows": true,
             "better_leaves": true,
+            "block_texture_variants": true,
             "detailed_torches": true,
-            "red_crimson_wood": true,
-            "texture_variants": true,
-            "unsaturated_rain": true,
-
-            "elytra": [
-                "WIP",
-                "WIP",
-                "WIP"
-           ]
+            "unsaturated_rain": true
         },
 
         "sounds": {
