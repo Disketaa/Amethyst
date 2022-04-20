@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "hopper",
+  "ingredients": [
+    {
+      "item": "omnihopper:omnihopper"
+    }
+  ],
+  "result": {
+    "item": "minecraft:hopper"
+  }
+}

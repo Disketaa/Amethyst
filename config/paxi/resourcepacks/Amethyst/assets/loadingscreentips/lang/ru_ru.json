@@ -5,12 +5,14 @@
 // Рецепты
   "text.loadingscreentips.tip.recipe1": "§7Рецепт создания §fмешка",
   "text.loadingscreentips.tip.recipe2": "§7Рецепт создания §fшапок §7жителей",
+  "text.loadingscreentips.tip.recipe3": "§7Рецепт создания §fгибкой воронки",
 // Механики
   "text.loadingscreentips.tip.gameplay1": "§fГоловы игроков §7выпадают после их убийства",
   "text.loadingscreentips.tip.gameplay2": "§7На §fэлитры §7можно наложить узор или покрасить их",
   "text.loadingscreentips.tip.gameplay3": "§fФлаг §7можно надеть в специальный слот брони",
   "text.loadingscreentips.tip.gameplay4": "§fФлаг §7можно обмакнуть в §fсветящиеся чернила",
   "text.loadingscreentips.tip.gameplay5": "§7Дополнительные функции для §fкниги рецептов",
+  "text.loadingscreentips.tip.gameplay6": "§fРаздатчик §7может собирать жидкость из котла",  
 // Клавиши
   "text.loadingscreentips.tip.key1": "§fСортировка инвентаря §7клавишей [§fR§7]",
   "text.loadingscreentips.tip.key2":"§7Добавление §fметок §7на карту клавишей [§fB§7]",

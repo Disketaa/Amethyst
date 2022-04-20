@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "fluid_hopper",
+  "ingredients": [
+    {
+      "item": "omnihopper:fluid_omnihopper"
+    }
+  ],
+  "result": {
+    "item": "omnihopper:fluid_hopper"
+  }
+}

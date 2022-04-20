@@ -1,6 +1,7 @@
 {
   "textures": {
     "accurate_item_textures": true,
+    "acute_interface": true,
     "alternative_crosshair": true,
     "authentic_orbs": true,
     "authentic_shadows": true,

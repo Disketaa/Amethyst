@@ -24,6 +24,7 @@
 	"rpo.amethyst.misc": "Разное",
 
 	"rpo.amethyst.textures.accurate_item_textures": "Аккуратные текстуры",
+	"rpo.amethyst.textures.acute_interface": "Остроугольный интерфейс",
 	"rpo.amethyst.textures.alternative_crosshair": "Альтернативный курсор",
 	"rpo.amethyst.textures.authentic_shadows": "Аутентичные тени",
 	"rpo.amethyst.textures.authentic_orbs": "Аутентичные частицы",
@@ -39,6 +40,7 @@
 
 
 	"rpo.tooltip.amethyst.textures.accurate_item_textures": "Новые текстуры для некоторых предметов §7©Disketaa, ©Vectorwing",
+	"rpo.tooltip.amethyst.textures.acute_interface": "Панели интерфейса без скругления, §7©Disketaa",
 	"rpo.tooltip.amethyst.textures.alternative_crosshair": "Курсор в виде 4-х точек §7©Disketaa",
 	"rpo.tooltip.amethyst.textures.authentic_shadows": "Пиксельные тени сущностей §7©Liahim85",
 	"rpo.tooltip.amethyst.textures.authentic_orbs": "Пиксельные частицы опыта §7©Unknown",

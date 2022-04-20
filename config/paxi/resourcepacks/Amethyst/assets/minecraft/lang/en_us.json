@@ -24,6 +24,7 @@
 	"rpo.amethyst.misc": "Miscellaneous",
 
 	"rpo.amethyst.textures.accurate_item_textures": "Accurate Item Textures",
+		"rpo.amethyst.textures.acute_interface": "Acute-Angled Interface",
 	"rpo.amethyst.textures.alternative_crosshair": "Alternative Crosshair",
 	"rpo.amethyst.textures.authentic_shadows": "Authentic Shadows",
 	"rpo.amethyst.textures.authentic_orbs": "Authentic Orbs",
@@ -39,6 +40,7 @@
 
 
 	"rpo.tooltip.amethyst.textures.accurate_item_textures": "Vanilla-based new item textures §7©Disketaa, ©Vectorwing",
+	"rpo.amethyst.textures.acute_interface": "Panels without rounded edges, §7©Disketaa",
 	"rpo.tooltip.amethyst.textures.alternative_crosshair": "4-points crosshair §7©Disketaa",
 	"rpo.tooltip.amethyst.textures.authentic_shadows": "Pixel consistently entity shadows §7©Liahim85",
 	"rpo.tooltip.amethyst.textures.authentic_orbs": "Pixel consistently experience orbs §7©Unknown",

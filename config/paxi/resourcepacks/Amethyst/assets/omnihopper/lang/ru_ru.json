@@ -1,0 +1,8 @@
+{
+  "block.omnihopper.omnihopper": "Гибкая воронка",
+  "block.omnihopper.fluid_omnihopper": "Гибкая воронка для жидкостей",
+  "block.omnihopper.fluid_hopper": "Воронка для жидкостей",
+  "container.omnihopper": "Гибкая воронка",
+  "container.fluid_omnihopper": "Гибкая воронка для жидкостей",
+  "container.fluid_hopper": "Воронка для жидкостей"
+}
