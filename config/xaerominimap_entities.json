@@ -21,21 +21,21 @@
     "displayY": false,
     "icons": 2.0,
     "heightLimit": 20.0,
-    "names": 0.0,
+    "names": 1.0,
     "iconScale": 1.0
   },
   "subCategories": [
     {
       "hardInclude": "living",
       "includeList": [],
-      "excludeMode": "ONLY",
+      "excludeMode": "ALL_BUT",
       "excludeList": [
-        "minecraft:armor_stand"
+        "minecraft:player"
       ],
       "name": "gui.xaero_entity_category_living",
       "protection": true,
       "settingOverrides": {
-        "displayed": false,
+        "displayed": true,
         "renderOrder": 2.0,
         "color": 14.0
       },

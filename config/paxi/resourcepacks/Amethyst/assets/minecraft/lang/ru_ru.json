@@ -15,6 +15,7 @@
     "item.minecraft.music_disc_pigstep.desc": "Лена Рейн - Pigstep",
     "item.minecraft.music_disc_otherside.desc": "Лена Рейн - Otherside",
 
+	"gui.recipebook.moreRecipes": "§7ⓘ Ещё варианты - правый клик",
 
 
     // ResourcePackOptions
@@ -31,6 +32,7 @@
 	"rpo.amethyst.textures.better_leaves": "Улучшенная листва",
 	"rpo.amethyst.textures.block_texture_variants": "Вариативные текстуры блоков",
 	"rpo.amethyst.textures.detailed_torches": "Детализированные факела",
+	"rpo.amethyst.textures.enhanced_interface": "Улучшенный интерфейс",
 	"rpo.amethyst.textures.unsaturated_rain": "Ненасыщенный дождь",
 	//
 	"rpo.amethyst.sounds.weather": "Погода",
@@ -47,8 +49,8 @@
 	"rpo.tooltip.amethyst.textures.better_leaves": "Объемные блоки листвы §7©Motschen",		
 	"rpo.tooltip.amethyst.textures.block_texture_variants": "Вариации текстур для блоков §7©Mo_Shark",
 	"rpo.tooltip.amethyst.textures.detailed_torches": "Подставка для факелов §7©Psilock1",
+	"rpo.tooltip.amethyst.textures.enhanced_interface": "Более гладкие панели интерфейса §7©Disketaa",
 	"rpo.tooltip.amethyst.textures.unsaturated_rain": "Менее контрастный дождь §7©Disketaa",
-	"rpo.tooltip.amethyst.textures.elytra": "Вариации для элитр",
 	//
 	"rpo.tooltip.amethyst.sounds.weather": "Дождь и гром §7©Disketaa",
 	//

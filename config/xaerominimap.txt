@@ -8,7 +8,7 @@ debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
 minimap:true
-caveMaps:2
+caveMaps:1
 caveZoom:0
 showWaypoints:true
 showIngameWaypoints:true
@@ -62,7 +62,7 @@ biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
 centeredEnlarged:true
-zoomedOutEnlarged:true
+zoomedOutEnlarged:false
 minimapTextAlign:0
 showAngles:false
 waypointsMutualEdit:true

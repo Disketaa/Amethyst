@@ -15,6 +15,7 @@
     "item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep",
     "item.minecraft.music_disc_otherside.desc": "Lena Raine - Otherside",
 
+    "gui.recipebook.moreRecipes": "§7ⓘ Right Click for More",
 
 
     // ResourcePackOptions
@@ -24,13 +25,14 @@
 	"rpo.amethyst.misc": "Miscellaneous",
 
 	"rpo.amethyst.textures.accurate_item_textures": "Accurate Item Textures",
-		"rpo.amethyst.textures.acute_interface": "Acute-Angled Interface",
+	"rpo.amethyst.textures.acute_interface": "Acute-Angled Interface",
 	"rpo.amethyst.textures.alternative_crosshair": "Alternative Crosshair",
 	"rpo.amethyst.textures.authentic_shadows": "Authentic Shadows",
 	"rpo.amethyst.textures.authentic_orbs": "Authentic Orbs",
 	"rpo.amethyst.textures.better_leaves": "Better Leaves",
 	"rpo.amethyst.textures.block_texture_variants": "Block Texture Variants",
 	"rpo.amethyst.textures.detailed_torches": "Detailed Torches",
+	"rpo.amethyst.textures.enhanced_interface": "Enhanced Interface",
 	"rpo.amethyst.textures.unsaturated_rain": "Unsaturated Rain",
 	//
 	"rpo.amethyst.sounds.weather": "Weather",
@@ -47,8 +49,8 @@
 	"rpo.tooltip.amethyst.textures.better_leaves": "Bushy leaves §7©Motschen",	
 	"rpo.tooltip.amethyst.textures.block_texture_variants": "Block variate textures §7©Mo_Shark",
 	"rpo.tooltip.amethyst.textures.detailed_torches": "Torch bracket §7©Psilock1",
+	"rpo.tooltip.amethyst.textures.enhanced_interface": "Modern-ish panels §7©Disketaa",
 	"rpo.tooltip.amethyst.textures.unsaturated_rain": "Less vibrant rain §7©Disketaa",
-	"rpo.tooltip.amethyst.textures.elytra": "Elytra texture variants",
 	//
 	"rpo.tooltip.amethyst.sounds.weather": "Rain and thunder ambience §7©Disketaa",
 	//

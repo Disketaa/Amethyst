@@ -1,11 +1,12 @@
 {
   "text.loadingscreentips.tip": "§eⓘ News:",
 // Mods
-  "text.loadingscreentips.tip.mod1": "§7Unique §fMusic Disc§7 summons storm",
+  "text.loadingscreentips.tip.mod1": "§7Unique §fMusic Disc§7 that summons storm",
 // Recipes
   "text.loadingscreentips.tip.recipe1": "§fBundle §7crafting recipe",
   "text.loadingscreentips.tip.recipe2": "§fVillager Hat §7crafting recipes",
   "text.loadingscreentips.tip.recipe3": "§fOmni-Hopper §7crafting recipes",
+    "text.loadingscreentips.tip.recipe4": "§fTorches §7can be crafted via campfire",
 // Gameplay
   "text.loadingscreentips.tip.gameplay1": "§fHeads §7can be dropped from Players",
   "text.loadingscreentips.tip.gameplay2": "§fElytra §7can be dyed or patterned",

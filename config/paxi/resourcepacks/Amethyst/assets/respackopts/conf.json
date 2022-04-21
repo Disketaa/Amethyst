@@ -12,6 +12,7 @@
             "better_leaves": true,
             "block_texture_variants": true,
             "detailed_torches": true,
+            "enhanced_interface": true,
             "unsaturated_rain": true
         },
 
