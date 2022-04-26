@@ -8,7 +8,7 @@ debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
 minimap:true
-caveMaps:3
+caveMaps:0
 caveZoom:0
 showWaypoints:true
 showIngameWaypoints:true
@@ -50,7 +50,7 @@ terrainSlopes:2
 mainEntityAs:1
 blockTransparency:true
 waypointOpacityIngame:80
-waypointOpacityMap:90
+waypointOpacityMap:80
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
@@ -59,8 +59,8 @@ renderLayerIndex:1
 crossDimensionalTp:true
 showTime:0
 biomeColorsVanillaMode:false
-lookingAtAngle:10
-lookingAtAngleVertical:180
+lookingAtAngle:5
+lookingAtAngleVertical:5
 centeredEnlarged:true
 zoomedOutEnlarged:false
 minimapTextAlign:0
@@ -89,7 +89,7 @@ showDimensionName:false
 displayMultipleWaypointInfo:1
 entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
-autoConvertWaypointDistanceToKmThreshold:10000
+autoConvertWaypointDistanceToKmThreshold:1000
 waypointDistancePrecision:1
 mainDotSize:1
 partialYTeleportation:true

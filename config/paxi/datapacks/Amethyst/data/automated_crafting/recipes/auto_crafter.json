@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QCQ",
+    "R#R",
+    "QOQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "C" : {
+      "item": "minecraft:comparator"
+    },
+    "R" : {
+      "item": "minecraft:redstone"
+    },
+    "#" : {
+      "item": "minecraft:crafting_table"
+    },
+    "O" : {
+      "item": "minecraft:observer"
+    }    
+  },
+  "result": {
+    "item": "automated_crafting:auto_crafter"
+  }
+}

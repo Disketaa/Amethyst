@@ -1,7 +1,7 @@
 {
-	"trinkets.tooltip.slots.any" : "ℹ Экипируется в §9любой§r слот",
-	"trinkets.tooltip.slots.list" : "ℹ Экипируется в слоты для:",
-	"trinkets.tooltip.slots.single" : "ℹ Экипируется в слот для %d",
+	"trinkets.tooltip.slots.any" : "ⓘ Экипируется в §9любой§r слот",
+	"trinkets.tooltip.slots.list" : "ⓘ Экипируется в слоты для:",
+	"trinkets.tooltip.slots.single" : "ⓘ Экипируется в слот для %d",
 	"trinkets.tooltip.attributes.all" : "Когда надето:",
 	"trinkets.tooltip.attributes.single" : "Когда надето в слот %d",
 	"trinkets.tooltip.attributes.slots" : "Слот %d",

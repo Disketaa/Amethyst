@@ -7,18 +7,21 @@
   "text.loadingscreentips.tip.recipe2": "§7Рецепт создания §fшапок §7жителей",
   "text.loadingscreentips.tip.recipe3": "§7Рецепт создания §fгибкой воронки",
   "text.loadingscreentips.tip.recipe4": "§fПалку §7можно зажечь об костёр, получив §fфакел",
+  "text.loadingscreentips.tip.recipe5": "§7Рецепт создания §fредстоун верстака",
 // Механики
   "text.loadingscreentips.tip.gameplay1": "§fГоловы игроков §7выпадают после их убийства",
   "text.loadingscreentips.tip.gameplay2": "§7На §fэлитры §7можно наложить узор или покрасить их",
   "text.loadingscreentips.tip.gameplay3": "§fФлаг §7можно надеть в специальный слот брони",
   "text.loadingscreentips.tip.gameplay4": "§fФлаг §7можно обмакнуть в §fсветящиеся чернила",
   "text.loadingscreentips.tip.gameplay5": "§7Дополнительные функции для §fкниги рецептов",
-  "text.loadingscreentips.tip.gameplay6": "§fРаздатчик §7может собирать жидкость из котла",  
+  "text.loadingscreentips.tip.gameplay6": "§fРаздатчик §7может собирать жидкость из котла",
+  "text.loadingscreentips.tip.gameplay7": "§fТочило §7можно использовать для переноса зачарований",  
 // Клавиши
   "text.loadingscreentips.tip.key1": "§fСортировка инвентаря §7клавишей [§fR§7]",
   "text.loadingscreentips.tip.key2":"§7Добавление §fметок §7на карту клавишей [§fB§7]",
   "text.loadingscreentips.tip.key3":"§7Открытие §fкарты §7клавишей [§fM§7]",
   "text.loadingscreentips.tip.key4": "§7Быстрое использование §fподзорной трубы §7клавишей [§fС§7]",
+  "text.loadingscreentips.tip.key5": "§7Переключение §fрежима пещер §7на мини-карте [§fX§7]",
 // Разное
   "text.loadingscreentips.tip.misc1": "§7Настраиваемый встроенный §fресурс-пак"
 }

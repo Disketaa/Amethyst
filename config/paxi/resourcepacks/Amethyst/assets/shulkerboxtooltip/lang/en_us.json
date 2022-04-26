@@ -1,0 +1,8 @@
+{
+  "container.shulkerbox.contains": "● Contains %s stack(s)",
+  "container.shulkerbox.empty": "○ Empty",
+  "shulkerboxtooltip.hint.compact": "view contents",
+  "shulkerboxtooltip.hint.full": "view full contents",
+  "shulkerboxtooltip.hint.lootTable": "Has loot table",
+  "shulkerboxtooltip.hint.lootTable.advanced": "Loot Table"
+}

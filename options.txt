@@ -110,13 +110,11 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.right.bracket
-key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
 key_key.spyglass-improvements.use:key.keyboard.c
+key_key.trinketshulkerboxes.open.desc:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -133,13 +131,16 @@ key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
-key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.x
 key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.right.bracket
+key_iris.keybind.shaderPackSelection:key.keyboard.left.bracket
 soundCategory_master:0.5
 soundCategory_music:1.0
 soundCategory_record:1.0

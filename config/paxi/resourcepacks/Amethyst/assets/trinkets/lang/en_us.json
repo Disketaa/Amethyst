@@ -1,9 +1,9 @@
 {
-	"trinkets.tooltip.slots.any" : "ℹ Equippable in §9any§r trinket slot",
-	"trinkets.tooltip.slots.list" : "ℹ Equippable in the trinket slots:",
-	"trinkets.tooltip.slots.single" : "ℹ Equippable in the %d trinket slot",
+	"trinkets.tooltip.slots.any" : "ⓘ Equippable in §9any§r slot",
+	"trinkets.tooltip.slots.list" : "ⓘ Equippable in the slots:",
+	"trinkets.tooltip.slots.single" : "ⓘ Equippable on the %d slot",
 	"trinkets.tooltip.attributes.all" : "When equipped:",
-	"trinkets.tooltip.attributes.single" : "When equipped in the %d trinket slot:",
+	"trinkets.tooltip.attributes.single" : "When equipped in the %d slot:",
 	"trinkets.tooltip.attributes.slots" : "%d Slots",
 	"trinkets.slot.head.face": "Face",
 	"trinkets.slot.head.hat": "Hat",
