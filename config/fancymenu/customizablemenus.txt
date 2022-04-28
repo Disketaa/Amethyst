@@ -6,3 +6,6 @@ net.minecraft.class_442 {
 net.sssubtlety.automated_crafting.AutoCrafterScreen {
 }
 
+net.minecraft.class_446 {
+}
+

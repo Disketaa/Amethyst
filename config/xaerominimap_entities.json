@@ -20,8 +20,8 @@
     "startFadingAt": 0.0,
     "displayY": false,
     "icons": 2.0,
-    "heightLimit": 160.0,
     "names": 1.0,
+    "heightLimit": 160.0,
     "iconScale": 1.0
   },
   "subCategories": [
