@@ -5,6 +5,7 @@ logs/*
 patched_shaders/*
 dashloader-cache/*
 saves/*
+fancymenu_data/*
 XaeroWorldMap/*
 XaeroWaypoints/*
 XaeroWaypoints_BACKUP*/*

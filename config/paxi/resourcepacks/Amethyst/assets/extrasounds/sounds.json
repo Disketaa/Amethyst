@@ -1,0 +1,133 @@
+{
+"item.clone": {
+    "sounds": [
+      {
+        "name": "minecraft:random/pop",
+        "volume": 0.2,
+        "pitch": 1.5
+      }
+    ],
+    "replace": true
+  },
+
+  "item.click.goldenhoppers.golden_hopper_minecart": {
+    "sounds": [
+      {
+        "name": "minecraft:block.nether_bricks.place",
+        "volume": 0.2,
+        "pitch": 0.6,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+
+  "item.click.origins.orb_of_origin": {
+    "sounds": [
+      {
+        "name": "minecraft:block.end_portal_frame.fill",
+        "volume": 0.2,
+        "pitch": 0.7,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+
+  "item.click.stormfest.music_disc_stormfest": {
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.gear.generic",
+        "pitch": 1.2,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.stormfest.charged_music_disc_stormfest": {
+    "sounds": [
+      {
+        "name": "extrasounds:item.category.gear.generic",
+        "pitch": 1.2,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+
+  "item.click.villager-hats.farmer_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.azalea.hit",
+        "volume": 0.4,
+        "pitch": 1.1,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.villager-hats.fletcher_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "volume": 0.2,
+        "pitch": 1.4,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.villager-hats.fisherman_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "volume": 0.2,
+        "pitch": 1.4,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.villager-hats.armorer_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_iron",
+        "volume": 0.2,
+        "pitch": 1.2,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.villager-hats.shepherd_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "volume": 0.2,
+        "pitch": 1.4,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.villager-hats.librarian_hat": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_leather",
+        "volume": 0.2,
+        "pitch": 1.4,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.villager-hats.butcher_hat": {
+    "sounds": [
+      {
+        "name": "extrasounds:item.click.minecraft.leather",
+        "type": "event"
+      }
+    ],
+    "replace": true
+  }
+}

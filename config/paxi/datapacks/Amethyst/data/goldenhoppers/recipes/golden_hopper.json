@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"gtg",
+		"gcg",
+		" g "
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:chest"
+		},
+		"t": {
+			"item": "minecraft:iron_trapdoor"
+		},		
+		"g": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"item": "goldenhoppers:golden_hopper"
+	}
+}
