@@ -1,0 +1,18 @@
+{
+  "allowedEnchantmentIdentifiers": [],
+  "allowedEnchantments": [],
+  "allowTreasureEnchantmentsInEnchantingTable": false,
+  "overhaulEnchantingTable": false,
+  "singleEnchantmentMode": false,
+  "singleLevelMode": false,
+  "allowInfinityOnCrossbows": true,
+  "allTridentsHaveLoyalty": false,
+  "channelingWorksWhenNotThundering": false,
+  "fireAspectWorksAsFlintAndSteel": true,
+  "luckOfTheSeaHasLure": false,
+  "safeChanneling": true,
+  "tridentsReturnFromVoid": true,
+  "maxExtractingBlocks": 64,
+  "maxLumberjackBlocks": 1024,
+  "unbreakingChangesFlag": -1
+}
