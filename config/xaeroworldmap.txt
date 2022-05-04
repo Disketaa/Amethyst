@@ -18,8 +18,8 @@ renderArrow:true
 displayZoom:true
 worldmapWaypointsScale:1.0
 openMapAnimation:true
-reloadVersion:0
-reloadEverything:false
+reloadVersion:1
+reloadEverything:true
 zoomButtons:false
 waypointBackgrounds:true
 detectAmbiguousY:true

@@ -34,6 +34,18 @@
     "replace": true
   },
 
+  "item.click.seasons.season_calendar": {
+    "sounds": [
+      {
+        "name": "minecraft:item.book.page_turn",
+        "volume": 0.15,
+        "pitch": 1.8,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+
   "item.click.stormfest.music_disc_stormfest": {
     "sounds": [
       {

@@ -1,8 +1,10 @@
 {
-  "allowedEnchantmentIdentifiers": [],
-  "allowedEnchantments": [],
-  "allowTreasureEnchantmentsInEnchantingTable": false,
+  "allowedEnchantments": [
+    "enchancement:amphibious"
+  ],
+  "invertedList": true,
   "overhaulEnchantingTable": false,
+  "allowTreasureEnchantmentsInEnchantingTable": false,
   "singleEnchantmentMode": false,
   "singleLevelMode": false,
   "allowInfinityOnCrossbows": true,
