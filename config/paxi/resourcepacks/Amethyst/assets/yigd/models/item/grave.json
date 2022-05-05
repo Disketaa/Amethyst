@@ -1,0 +1,38 @@
+{
+  "parent": "yigd:block/grave",
+
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 75, 135, 0 ],
+      "scale":[ 0.375, 0.375, 0.375]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, 135, 0 ],
+      "scale":[ 0.4, 0.4, 0.4]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 75, -135, 0 ],
+      "scale":[ 0.375, 0.375, 0.375]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, 135, 0 ],
+      "scale":[ 0.4, 0.4, 0.4]
+    },
+    "thirdperson_offhand": {
+      "rotation": [ 30, -135, 0 ],
+      "scale":[ 0.23, 0.23, 0.23]
+    },
+    "firstperson_offhand": {
+      "rotation": [ 30, -135, 0 ],
+      "scale":[ 0.375, 0.375, 0.375]
+    },
+    "gui": {
+      "rotation": [ 45, -135, 0 ],
+      "translation": [2, -2, 0],
+      "scale":[ 0.6, 0.6, 0.6]
+    },
+    "ground": {
+      "scale": [0.33, 0.33, 0.33]
+    }
+  }
+}

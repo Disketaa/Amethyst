@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "G"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:stone_slab"
+        },
+        "G": {
+            "item": "minecraft:gravel"
+        }
+    },
+    "result": {
+        "item": "yigd:grave",
+        "count": 1
+    }
+}

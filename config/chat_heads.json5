@@ -1,5 +1,5 @@
 {
 	"offsetNonPlayerText": false,
-	"senderDetection": "UUID_AND_HEURISTIC",
-	"smartHeuristics": true
+	"senderDetection": "UUID_ONLY",
+	"smartHeuristics": false
 }

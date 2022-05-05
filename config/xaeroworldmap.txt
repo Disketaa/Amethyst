@@ -1,5 +1,5 @@
-ignoreUpdate:0
-updateNotification:true
+ignoreUpdate:130
+updateNotification:false
 differentiateByServerAddress:true
 netherlikeCaveMapAllowed:true
 debug:false
@@ -26,7 +26,7 @@ detectAmbiguousY:true
 showDisabledWaypoints:false
 closeWaypointsWhenHopping:true
 adjustHeightForCarpetLikeBlocks:true
-onlyCurrentMapWaypoints:false
+onlyCurrentMapWaypoints:true
 minZoomForLocalWaypoints:0.0
 arrowColour:-2
 globalVersion:1
