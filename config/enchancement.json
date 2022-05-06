@@ -12,6 +12,7 @@
   "allTridentsHaveLoyalty": false,
   "channelingWorksWhenNotThundering": false,
   "fireAspectWorksAsFlintAndSteel": true,
+  "freeEnchantedBookMerging": true,
   "luckOfTheSeaHasLure": false,
   "safeChanneling": true,
   "tridentsReturnFromVoid": true,
