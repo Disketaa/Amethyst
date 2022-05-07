@@ -24,7 +24,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.0
-renderDistance:8
+renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
@@ -131,10 +131,10 @@ key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
 key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
-key_gui.xaero_toggle_manual_cave_mode:key.keyboard.x
-key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.equal
+key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
@@ -146,7 +146,7 @@ soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.70207083
 soundCategory_block:1.0
-soundCategory_hostile:1.0
+soundCategory_hostile:0.017605634
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:0.7032889
