@@ -4,13 +4,13 @@
     "alternative_crosshair": true,
     "authentic_orbs": true,
     "authentic_shadows": true,
+    "better_dirt": true,
     "better_leaves": true,
     "block_texture_variants": true,
     "connected_textures": true,
     "detailed_torches": true,
     "enhanced_interface": true,
-    "unsaturated_rain": true,
-    "better_dirt": true
+    "unsaturated_rain": true
   },
   "sounds": {
     "weather": true

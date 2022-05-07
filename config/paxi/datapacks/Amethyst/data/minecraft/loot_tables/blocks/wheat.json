@@ -17,9 +17,21 @@
                   "enchantment": "minecraft:fortune",
                   "formula": "minecraft:binomial_with_bonus_count",
                   "parameters": {
-                    "extra": 0,
+                    "extra": 1,
                     "probability": 0.33
-                  }
+                  },
+                  "conditions": [
+                    {
+                      "condition": "minecraft:match_tool",
+                      "predicate": {
+                        "enchantments": [
+                          {
+                            "enchantment": "minecraft:fortune"
+                          }
+                        ]
+                      }
+                    }
+                  ]
                 }
               ],
               "conditions": [
