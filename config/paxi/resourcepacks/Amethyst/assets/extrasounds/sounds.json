@@ -10,6 +10,143 @@
     "replace": true
   },
 
+
+
+  "item.click.boatcontainer.oak_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.spruce_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.birch_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.jungle_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.acacia_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.dark_oak_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.oak_ender_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.spruce_ender_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.birch_ender_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.jungle_ender_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.acacia_ender_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.boatcontainer.dark_oak_ender_chest_boat": {
+    "sounds": [
+      {
+        "name": "minecraft:block.wood.step",
+        "volume": 0.2,
+        "pitch": 1.5,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+
+
+
   "item.click.goldenhoppers.golden_hopper_minecart": {
     "sounds": [
       {
@@ -21,6 +158,8 @@
     ],
     "replace": true
   },
+
+
 
   "item.click.origins.orb_of_origin": {
     "sounds": [
@@ -34,6 +173,8 @@
     "replace": true
   },
 
+
+
   "item.click.seasons.season_calendar": {
     "sounds": [
       {
@@ -45,6 +186,8 @@
     ],
     "replace": true
   },
+
+
 
   "item.click.stormfest.music_disc_stormfest": {
     "sounds": [
@@ -66,6 +209,8 @@
     ],
     "replace": true
   },
+
+
 
   "item.click.villager-hats.farmer_hat": {
     "sounds": [
