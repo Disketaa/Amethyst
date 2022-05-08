@@ -21,13 +21,4 @@ minecraftinstance.json
 .curseclient
 profileImage/animated.png
 BTLib.dll
-
-runtime/*
-versions/*
-assets/*
-libraries/*
-tlauncher_libraries/*
-TempOptifineStore-1.0.json
-TlauncherProfiles.json
-worlds.json
-launcher_profiles.json
+profileImage/*
