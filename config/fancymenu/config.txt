@@ -16,22 +16,22 @@ I:defaultguiscale = '-1';
 ##[customization]
 
 B:advancedmode = 'false';
-B:showcustomizationbuttons = 'false';
+B:showcustomizationbuttons = 'true';
 
 
 ##[mainmenu]
 
 B:hidebranding = 'true';
-B:hidelogo = 'false';
+B:hidelogo = 'true';
 B:hiderealmsnotifications = 'true';
 
 
 ##[mainmenu_splash]
 
 S:splashcolor = '#ffffff';
-I:splashrotation = '-20';
-I:splashy = '0';
-I:splashx = '0';
+I:splashrotation = '0';
+I:splashy = '16';
+I:splashx = '-90';
 B:hidesplashtext = 'true';
 S:splashtextfile = '';
 S:splashorientation = 'original';
@@ -39,11 +39,11 @@ S:splashorientation = 'original';
 
 ##[loading]
 
-B:allowgameintroskip = 'true';
+B:allowgameintroskip = 'false';
 S:loadinganimationcolor = '#ffffffff';
 B:showanimationloadingstatus = 'false';
 S:gameintroanimation = '';
-B:preloadanimations = 'false';
+B:preloadanimations = 'true';
 S:customgameintroskiptext = '';
 
 

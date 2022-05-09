@@ -9,7 +9,34 @@ customization-meta {
 }
 
 customization {
+  name = amethyst_geode
+  action = setbackgroundpanorama
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
+}
+
+customization {
+  path = config/fancymenu/customguis/main/white_tint.png
+  orientation = top-left
+  x = 1
+  width = 1920
+  action = addtexture
+  actionid = d33dfe10-03e3-4438-a211-84cdf952c98c1652099228958
+  y = -1
+  height = 480
+}
+
+customization {
+  path = config/fancymenu/customguis/main/title.png
+  orientation = top-centered
+  x = -128
+  width = 256
+  action = addtexture
+  actionid = 72c3a807-b03d-4ba1-99fb-1bd7ace604bc1652085990200
+  y = 24
+  height = 56
 }
 
