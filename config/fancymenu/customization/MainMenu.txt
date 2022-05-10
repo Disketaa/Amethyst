@@ -3,7 +3,7 @@ type = menu
 customization-meta {
   identifier = net.minecraft.class_442
   randomgroup = 1
-  renderorder = foreground
+  renderorder = background
   randommode = false
   randomonlyfirsttime = false
 }
@@ -19,9 +19,20 @@ customization {
 }
 
 customization {
+  identifier = %id=802990%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=802990%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
   path = config/fancymenu/customguis/main/white_tint.png
-  orientation = top-left
-  x = 1
+  orientation = top-center
+  x = 0
   width = 1920
   action = addtexture
   actionid = d33dfe10-03e3-4438-a211-84cdf952c98c1652099228958
@@ -32,11 +43,22 @@ customization {
 customization {
   path = config/fancymenu/customguis/main/title.png
   orientation = top-centered
-  x = -128
-  width = 256
+  x = -120
+  width = 240
   action = addtexture
-  actionid = 72c3a807-b03d-4ba1-99fb-1bd7ace604bc1652085990200
-  y = 24
-  height = 56
+  actionid = a4c5fc48-2bc9-48da-b734-1a58ffe67e741652187790475
+  y = 32
+  height = 40
+}
+
+customization {
+  path = config/fancymenu/customguis/main/subtitle.png
+  orientation = top-centered
+  x = -29
+  width = 58
+  action = addtexture
+  actionid = c7672012-3361-418c-bbec-22dd677a1cf51652189346715
+  y = 64
+  height = 15
 }
 

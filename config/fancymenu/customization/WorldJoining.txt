@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_3928
+  identifier = net.minecraft.class_412
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -23,4 +23,3 @@ customization {
   y = -40
   height = 32
 }
-

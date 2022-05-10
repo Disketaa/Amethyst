@@ -6,6 +6,16 @@ customization-meta {
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-  backgroundcolor = b38ef3
+  backgroundcolor = a163e3
 }
 
+customization {
+  orientation = bottom-right
+  name = amethyst
+  x = -40
+  width = 32
+  actionid = 657b7d34-864b-4ea3-84c0-5ff5e50a8e0a1652193813632
+  action = addanimation
+  y = -40
+  height = 32
+}
