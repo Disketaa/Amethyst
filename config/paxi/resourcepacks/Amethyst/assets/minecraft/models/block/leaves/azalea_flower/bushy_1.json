@@ -1,0 +1,8 @@
+{
+	"credit": "Made by AlleCraft",
+	"parent": "minecraft:block/leaves/bushy_1",
+	"textures": {
+		"bushy": "minecraft:block/leaves/flowering_azalea_leaves_bushy",
+		"leaves": "minecraft:block/leaves/flowering_azalea_leaves"
+	}
+}

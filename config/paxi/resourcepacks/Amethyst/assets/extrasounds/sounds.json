@@ -189,29 +189,6 @@
 
 
 
-  "item.click.stormfest.music_disc_stormfest": {
-    "sounds": [
-      {
-        "name": "extrasounds:item.category.gear.generic",
-        "pitch": 1.2,
-        "type": "event"
-      }
-    ],
-    "replace": true
-  },
-  "item.click.stormfest.charged_music_disc_stormfest": {
-    "sounds": [
-      {
-        "name": "extrasounds:item.category.gear.generic",
-        "pitch": 1.2,
-        "type": "event"
-      }
-    ],
-    "replace": true
-  },
-
-
-
   "item.click.villager-hats.farmer_hat": {
     "sounds": [
       {

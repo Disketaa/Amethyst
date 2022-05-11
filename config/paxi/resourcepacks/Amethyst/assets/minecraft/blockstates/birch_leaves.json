@@ -1,14 +1,51 @@
 {
-    "variants": {
-        "": [
-			{ "model": "block/leaves/birch_leaves1" },
-			{ "model": "block/leaves/birch_leaves2" },
-			{ "model": "block/leaves/birch_leaves3" },
-			{ "model": "block/leaves/birch_leaves4" },
-			{ "model": "block/leaves/birch_leaves5" },
-			{ "model": "block/leaves/birch_leaves6" },
-			{ "model": "block/leaves/birch_leaves7" },
-			{ "model": "block/leaves/birch_leaves8" }
-		]
-    }
+  "credit": "Made by AlleCraft",
+  "variants": {
+      "": [
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "y": 90 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "y": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "y": 270 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "y": 90, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "y": 180, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_1", "weight": 3, "y": 270, "x": 180 },
+
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "y": 90 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "y": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "y": 270 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "y": 90, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "y": 180, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_2", "weight": 3, "y": 270, "x": 180 },
+
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "y": 90 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "y": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "y": 270 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "y": 90, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "y": 180, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_3", "weight": 5, "y": 270, "x": 180 },
+
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "y": 90 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "y": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "y": 270 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "y": 90, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "y": 180, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_4", "weight": 5, "y": 270, "x": 180 },
+
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "y": 90 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "y": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "y": 270 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "y": 90, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "y": 180, "x": 180 },
+        { "model": "minecraft:block/leaves/birch/bushy_5", "weight": 5, "y": 270, "x": 180 }
+      ]
+  }
 }
