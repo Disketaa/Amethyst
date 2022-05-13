@@ -9,12 +9,12 @@
     "consume_enchanted_item": false,
     "cost_config": {
       "count_mode": "count_levels",
-      "cost_factor": 1.0,
-      "cost_offset": 0.0
+      "cost_factor": 2.0,
+      "cost_offset": 0.5
     }
   },
   "move_enchantments": {
-    "enabled": true,
+    "enabled": false,
     "cost_config": {
       "count_mode": "count_enchantments",
       "cost_factor": 0.5,

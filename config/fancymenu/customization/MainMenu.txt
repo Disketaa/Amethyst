@@ -30,35 +30,106 @@ customization {
 }
 
 customization {
-  path = config/fancymenu/customguis/main/white_tint.png
   orientation = top-center
+  delayappearanceseconds = 1.0
+  path = config/fancymenu/customguis/main/white_tint.png
   x = 0
   width = 1920
   action = addtexture
   actionid = d33dfe10-03e3-4438-a211-84cdf952c98c1652099228958
-  y = -1
+  y = 0
   height = 480
 }
 
 customization {
-  path = config/fancymenu/customguis/main/title.png
   orientation = top-centered
+  delayappearanceseconds = 0.0
+  path = config/fancymenu/customguis/main/title.png
+  fadein = true
+  fadeinspeed = 2.5
   x = -120
   width = 240
   action = addtexture
   actionid = a4c5fc48-2bc9-48da-b734-1a58ffe67e741652187790475
   y = 32
+  delayappearance = true
   height = 40
 }
 
 customization {
-  path = config/fancymenu/customguis/main/subtitle.png
   orientation = top-centered
-  x = -29
-  width = 58
+  delayappearanceseconds = 0.05
+  path = config/fancymenu/customguis/main/subtitle.png
+  fadein = true
+  fadeinspeed = 2.5
+  x = -32
+  width = 65
   action = addtexture
   actionid = c7672012-3361-418c-bbec-22dd677a1cf51652189346715
-  y = 64
-  height = 15
+  y = 66
+  delayappearance = true
+  height = 17
 }
 
+customization {
+  identifier = %id=400298%
+  seconds = 0.15
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400322%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 0.25
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400382%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502382%
+  seconds = 0.35
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376382%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604382%
+  seconds = 0.4
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}

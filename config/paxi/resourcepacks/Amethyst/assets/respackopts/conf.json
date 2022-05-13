@@ -1,6 +1,6 @@
 {
     "id": "amethyst",
-    "version": 6,
+    "version": 7,
     "capabilities": ["FileFilter", "DirFilter"],
     "conf": {
         "textures": {

@@ -10,12 +10,27 @@ customization-meta {
 }
 
 customization {
-  orientation = bottom-right
-  name = amethyst
-  x = -40
-  width = 32
-  actionid = 657b7d34-864b-4ea3-84c0-5ff5e50a8e0a1652193813632
-  action = addanimation
-  y = -40
-  height = 32
+  visible = false
+  action = editprogressbar
 }
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  orientation = mid-centered
+  bartexture = config/fancymenu/customguis/load/mojang1.png
+  x = 0
+  width = 256
+  actionid = b51ee6a3-ace8-4888-a8cc-1a2fced083941652305211510
+  y = 0
+  action = addcustomprogressbar
+  backgroundtexture = config/fancymenu/customguis/load/mojang2.png
+  height = 39
+  direction = right
+  barcolor = #ffffff
+  backgroundcolor = #5c5c5c80
+}
+

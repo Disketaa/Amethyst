@@ -191,6 +191,7 @@
   "item.origins.orb_of_origin.layer_specific": "%1$s на \"%2$s\".",
 
   "enchantment.origins.water_protection": "Защита от воды",
+  "enchantment.origins.water_protection.desc": "Сдерживает урон от гидрофобии",
 
   "container.shulker_inventory_power": "Шалкеровый инвентарь",
 
