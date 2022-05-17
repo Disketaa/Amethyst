@@ -2,7 +2,7 @@
   "configVersion": 2,
   "windMode": "NONE",
   "capeStyle": "SMOOTH",
-  "capeMovement": "BASIC_SIMULATION",
+  "capeMovement": "VANILLA",
   "gravity": 25,
   "heightMultiplier": 6
 }

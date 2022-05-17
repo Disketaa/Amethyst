@@ -21,8 +21,8 @@ darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
-screenEffectScale:1.0
-fovEffectScale:1.0
+screenEffectScale:0.4
+fovEffectScale:0.6
 gamma:0.0
 renderDistance:12
 simulationDistance:12
