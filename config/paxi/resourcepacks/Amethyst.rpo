@@ -1,0 +1,22 @@
+{
+  "textures": {
+    "accurate_item_textures": true,
+    "alternative_crosshair": true,
+    "authentic_orbs": true,
+    "authentic_shadows": true,
+    "better_dirt": true,
+    "better_foliage": true,
+    "block_texture_variants": true,
+    "connected_textures": true,
+    "detailed_torches": true,
+    "enhanced_interface": true,
+    "unsaturated_rain": true
+  },
+  "sounds": {
+    "weather": true
+  },
+  "misc": {
+    "item_physics": true,
+    "unobtrusive_shield": true
+  }
+}
