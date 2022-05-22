@@ -9,35 +9,158 @@ customization-meta {
 }
 
 customization {
-  name = amethyst_geode
-  action = setbackgroundpanorama
+  name = main_menu
+  action = animatebackground
 }
 
 customization {
-  keepaspectratio = false
+  keepaspectratio = true
   action = backgroundoptions
 }
 
 customization {
-  identifier = %id=802990%
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   action = hidebutton
 }
 
 customization {
-  identifier = %id=802990%
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
   action = setbuttonlabel
   value = 
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -16
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 0.4
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 0.35
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.15
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 8
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 0.25
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.5
+  action = hidebuttonfor
+}
+
+customization {
   orientation = top-center
-  delayappearanceseconds = 1.0
+  delayappearanceseconds = 0.0
   path = config/fancymenu/customguis/main/white_tint.png
-  x = 0
+  fadein = true
+  fadeinspeed = 2.5
+  x = 1
   width = 1920
   action = addtexture
   actionid = d33dfe10-03e3-4438-a211-84cdf952c98c1652099228958
   y = 0
+  delayappearance = true
+  delayappearanceeverytime = false
   height = 480
 }
 
@@ -53,6 +176,7 @@ customization {
   actionid = a4c5fc48-2bc9-48da-b734-1a58ffe67e741652187790475
   y = 32
   delayappearance = true
+  delayappearanceeverytime = false
   height = 40
 }
 
@@ -68,68 +192,6 @@ customization {
   actionid = c7672012-3361-418c-bbec-22dd677a1cf51652189346715
   y = 66
   delayappearance = true
+  delayappearanceeverytime = false
   height = 17
-}
-
-customization {
-  identifier = %id=400298%
-  seconds = 0.15
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=400322%
-  seconds = 0.2
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=400346%
-  seconds = 0.25
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=400382%
-  seconds = 0.3
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=502382%
-  seconds = 0.35
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=376382%
-  seconds = 0.3
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
-}
-
-customization {
-  identifier = %id=604382%
-  seconds = 0.4
-  onlyfirsttime = true
-  fadein = true
-  fadeinspeed = 2.5
-  action = hidebuttonfor
 }

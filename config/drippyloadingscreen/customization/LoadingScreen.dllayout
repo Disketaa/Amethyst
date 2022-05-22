@@ -6,7 +6,7 @@ customization-meta {
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-  backgroundcolor = a163e3
+  backgroundcolor = b463e7
 }
 
 customization {

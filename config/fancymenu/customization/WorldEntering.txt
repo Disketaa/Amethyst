@@ -15,7 +15,7 @@ customization {
 
 customization {
   orientation = bottom-right
-  name = amethyst
+  name = loading
   x = -40
   width = 32
   actionid = 657b7d34-864b-4ea3-84c0-5ff5e50a8e0a1652193813632
