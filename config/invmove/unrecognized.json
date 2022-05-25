@@ -1,0 +1,11 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "xaero.map.gui.GuiMap": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiEntityRadarSettings": true
+  },
+  "hideBackground": {}
+}
