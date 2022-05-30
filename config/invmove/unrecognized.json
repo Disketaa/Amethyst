@@ -5,7 +5,13 @@
     "xaero.map.gui.GuiMap": true,
     "xaero.common.gui.GuiMinimapMain": true,
     "xaero.map.gui.GuiWorldMapSettings": true,
-    "xaero.common.gui.GuiEntityRadarSettings": true
+    "xaero.common.gui.GuiEntityRadarSettings": true,
+    "com.shnupbups.redstonebits.container.screen.BreakerHandledScreen": true,
+    "com.shnupbups.redstonebits.container.screen.CheckerHandledScreen": true,
+    "net.sssubtlety.automated_crafting.AutoCrafterScreen": true,
+    "io.github.haykam821.goldenhoppers.screen.GoldenHopperScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true
   },
   "hideBackground": {}
 }

@@ -175,6 +175,42 @@
 
 
 
+"item.click.redstonebits.placer": {
+    "sounds": [
+      {
+        "name": "minecraft:block.copper.step",
+        "volume": 0.2,
+        "pitch": 1.2,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.redstonebits.breaker": {
+    "sounds": [
+      {
+        "name": "minecraft:block.copper.step",
+        "volume": 0.2,
+        "pitch": 1.2,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+  "item.click.redstonebits.checker": {
+    "sounds": [
+      {
+        "name": "minecraft:block.copper.step",
+        "volume": 0.2,
+        "pitch": 1.2,
+        "type": "event"
+      }
+    ],
+    "replace": true
+  },
+
+
+
   "item.click.seasons.season_calendar": {
     "sounds": [
       {

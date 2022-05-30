@@ -1,0 +1,70 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_490
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=516478%
+  orientation = mid-centered
+  x = 63
+  action = movebutton
+  y = -76
+}
+
+customization {
+  identifier = %id=516478%
+  width = 8
+  action = resizebutton
+  height = 8
+}
+
+customization {
+  identifier = %id=516478%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config\paxi\resourcepacks\Amethyst\assets\patchouli\textures\items\knowledge_book.png
+  backgroundnormal = config\paxi\resourcepacks\Amethyst\assets\patchouli\textures\items\knowledge_book.png
+}
+
+customization {
+  identifier = %id=516478%
+  seconds = 0.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 6.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.05
+  buttonaction = sendmessage
+  backgroundhovered = config\paxi\resourcepacks\Amethyst\assets\patchouli\textures\items\book_brown.png
+  label = 
+  loopbackgroundanimations = false
+  fadein = true
+  fadeinspeed = 6.0
+  x = 73
+  width = 8
+  actionid = 30048e6c-05b1-4076-a54e-a358781c72a21653872435222
+  action = addbutton
+  y = -76
+  delayappearance = true
+  backgroundnormal = config\paxi\resourcepacks\Amethyst\assets\patchouli\textures\items\book_brown.png
+  value = /open-patchouli-book @s patchouli:amethyst
+  delayappearanceeverytime = true
+  height = 8
+}
+

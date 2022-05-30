@@ -1,0 +1,37 @@
+{
+  "enableSorting": true,
+  "enableDefaultItemSortingRules": true,
+  "customSortingRules": [
+    "minecraft:black_stained_glass_pane seasons:greenhouse_glass",
+    "minecraft:stonecutter yigd:grave",
+    "minecraft:dropper redstonebits:checker redstonebits:placer redstonebits:breaker minecraft:lightning_rod",
+    "minecraft:target minecraft:hopper omnihopper:omnihopper omnihopper:fluid_hopper omnihopper:fluid_omnihopper goldenhoppers:golden_hopper",
+    "minecraft:comparator redstonebits:counter redstonebits:adder redstonebits:resistor redstonebits:inverter",
+    "minecraft:redstone_lamp redstonebits:analog_redstone_lamp minecraft:noteblock redstonebits:redstone_display",
+    "minecraft:redstone_block automated_crafting:auto_crafter",
+    "minecraft:sticky_piston redstonebits:rotator",
+    "minecraft:lever minecraft:tripwire_hook",
+    "minecraft:warped_button redstonebits:copper_button redstonebits:exposed_copper_button redstonebits:weathered_copper_button redstonebits:oxidized_copper_button redstonebits:waxed_copper_button redstonebits:waxed_exposed_copper_button redstonebits:waxed_weathered_copper_button redstonebits:waxed_oxidized_copper_button",
+    "minecraft:light_weighted_pressure_plate redstonebits:medium_weighted_pressure_plate redstonebits:exposed_medium_weighted_pressure_plate redstonebits:weathered_medium_weighted_pressure_plate redstonebits:oxidized_medium_weighted_pressure_plate redstonebits:waxed_medium_weighted_pressure_plate redstonebits:waxed_exposed_medium_weighted_pressure_plate redstonebits:waxed_weathered_medium_weighted_pressure_plate redstonebits:waxed_oxidized_medium_weighted_pressure_plate",
+    "minecraft:daylight_detector seasons:season_detector",
+    "minecraft:hopper_minecart goldenhoppers:golden_hopper_minecart",
+    "minecraft:heart_of_the_sea origins:orb_of_origin",
+    "minecraft:fishing_rod minecraft:compass seasons:season_calendar minecraft:clock",
+    "minecraft:leather_horse_armor villager-hats:fletcher_hat villager-hats:shepherd_hat villager-hats:butcher_hat villager-hats:fisherman_hat villager-hats:farmer_hat villager-hats:armorer_hat villager-hats:librarian_hat"
+  ],
+  "variantsFollowingBaseBlocks": "stairs slab",
+  "shapesFollowingBaseBlocks": "*",
+  "fenceGateFollowsFence": true,
+  "enableGroupTransfer": true,
+  "buttonsInDecorations": false,
+  "fenceGatesInDecorations": true,
+  "swordsInTools": true,
+  "doorsInDecorations": true,
+  "transferRules": [],
+  "variantTransferRules": [],
+  "regexTransferRules": [
+    ".+?hat misc"
+  ],
+  "shapeTransferRules": [],
+  "baseBlocksInBuildingBlocks": true
+}

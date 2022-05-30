@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ciC",
+        "CRC"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "c": {
+            "tag": "redstonebits:copper_buttons"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "redstonebits:rotator"
+    }
+}

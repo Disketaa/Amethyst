@@ -1,6 +1,6 @@
 enablePinning = false
 darkMode = false
-keepCentered = false
+keepCentered = true
 settingsButton = false
 enableBook = true
 

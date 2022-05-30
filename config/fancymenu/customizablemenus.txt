@@ -27,3 +27,12 @@ net.minecraft.class_429 {
 net.minecraft.class_3928 {
 }
 
+net.minecraft.class_490 {
+}
+
+vazkii.patchouli.client.book.gui.GuiBookIndex {
+}
+
+vazkii.patchouli.client.book.gui.GuiBookLanding {
+}
+
