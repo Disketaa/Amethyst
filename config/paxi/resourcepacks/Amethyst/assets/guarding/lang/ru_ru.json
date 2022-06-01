@@ -1,6 +1,6 @@
 {
-  "enchantment.guarding.barbed": "Колкость [§cБудет скоро удалено§r]",
-  "enchantment.guarding.pummeling": "Напружиненный [§cБудет скоро удалено§r]",
+  "enchantment.guarding.barbed": "Колкость",
+  "enchantment.guarding.pummeling": "Напружиненный",
   "stat.guarding.parry": "Парирование",
 
   "enchantment.guarding.barbed.desc": " Наносит урон при парировании",

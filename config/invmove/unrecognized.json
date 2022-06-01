@@ -11,7 +11,11 @@
     "net.sssubtlety.automated_crafting.AutoCrafterScreen": true,
     "io.github.haykam821.goldenhoppers.screen.GoldenHopperScreen": true,
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
-    "vazkii.patchouli.client.book.gui.GuiBookWriter": true
+    "vazkii.patchouli.client.book.gui.GuiBookWriter": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "net.minecraft.class_410": true,
+    "me.shedaniel.advancementsenlarger.gui.BiggerAdvancementsScreen": true,
+    "net.minecraft.class_4895": true
   },
   "hideBackground": {}
 }

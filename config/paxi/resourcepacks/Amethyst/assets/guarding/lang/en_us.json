@@ -1,6 +1,6 @@
 {
-  "enchantment.guarding.barbed": "Barbed [§cWill removed soon§r]",
-  "enchantment.guarding.pummeling": "Pummeling [§cWill removed soon§r]",
+  "enchantment.guarding.barbed": "Barbed",
+  "enchantment.guarding.pummeling": "Pummeling",
   "stat.guarding.parry": "Shield Parries",
 
   "enchantment.guarding.barbed.desc": "Parrying deals damage",

@@ -25,7 +25,7 @@
   "enableGroupTransfer": true,
   "buttonsInDecorations": false,
   "fenceGatesInDecorations": true,
-  "swordsInTools": true,
+  "swordsInTools": false,
   "doorsInDecorations": true,
   "transferRules": [],
   "variantTransferRules": [],
