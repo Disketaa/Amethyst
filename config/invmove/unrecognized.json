@@ -15,7 +15,8 @@
     "xaero.common.gui.GuiWaypoints": true,
     "net.minecraft.class_410": true,
     "me.shedaniel.advancementsenlarger.gui.BiggerAdvancementsScreen": true,
-    "net.minecraft.class_4895": true
+    "net.minecraft.class_4895": true,
+    "net.coderbot.iris.gui.screen.ShaderPackScreen": true
   },
   "hideBackground": {}
 }

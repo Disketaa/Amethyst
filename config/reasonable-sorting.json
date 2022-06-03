@@ -5,7 +5,7 @@
     "minecraft:black_stained_glass_pane seasons:greenhouse_glass",
     "minecraft:stonecutter yigd:grave",
     "minecraft:dropper redstonebits:checker redstonebits:placer redstonebits:breaker minecraft:lightning_rod",
-    "minecraft:target minecraft:hopper omnihopper:omnihopper omnihopper:fluid_hopper omnihopper:fluid_omnihopper goldenhoppers:golden_hopper",
+    "minecraft:target minecraft:hopper omnihopper:omnihopper omnihopper:fluid_hopper omnihopper:fluid_omnihopper goldenhoppers:golden_hopper socketwrenchitem:wrench",
     "minecraft:comparator redstonebits:counter redstonebits:adder redstonebits:resistor redstonebits:inverter",
     "minecraft:redstone_lamp redstonebits:analog_redstone_lamp minecraft:noteblock redstonebits:redstone_display",
     "minecraft:redstone_block automated_crafting:auto_crafter",
@@ -27,7 +27,9 @@
   "fenceGatesInDecorations": true,
   "swordsInTools": false,
   "doorsInDecorations": true,
-  "transferRules": [],
+  "transferRules": [
+    "socketwrenchitem:wrench redstone"
+  ],
   "variantTransferRules": [],
   "regexTransferRules": [
     ".+?hat misc"

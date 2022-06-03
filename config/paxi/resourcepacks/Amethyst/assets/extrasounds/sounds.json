@@ -299,5 +299,19 @@
       }
     ],
     "replace": true
+  },
+
+
+
+  "item.click.socketwrenchitem.wrench": {
+    "sounds": [
+      {
+        "name": "minecraft:item.armor.equip_iron",
+        "volume": 0.2,
+        "pitch": 0.9,
+        "type": "event"
+      }
+    ],
+    "replace": true
   }
 }

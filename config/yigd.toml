@@ -9,7 +9,7 @@ generateEmptyGraves = false
 ignoreSpawnProtection = true
 deathInSpawnProtection = "CREATE_GRAVE"
 priority = "GRAVE"
-unlockableGraves = true
+unlockableGraves = false
 deleteEnchantments = ["minecraft:vanishing_curse"]
 soulboundEnchantments = ["yigd:soulbound"]
 applyBindingCurse = true
@@ -20,7 +20,7 @@ blacklistDimensions = []
 graveInVoid = false
 ignoreDeathTypes = []
 graveSpawnHeight = 2
-lastResort = "DROP_ITEMS"
+lastResort = "SET_GRAVE"
 putXpInGrave = false
 defaultXpDrop = false
 xpDropPercent = 60
@@ -30,15 +30,15 @@ maxGraveBackups = 50
 [graveSettings.graveRobbing]
 enableRobbing = true
 onlyMurderer = false
-afterTime = 0
-timeType = "HOURS"
+afterTime = 1
+timeType = "SECONDS"
 robPriority = "INVENTORY"
 
 [graveSettings.graveDeletion]
 canDelete = false
 afterTime = 1
 timeType = "HOURS"
-dropInventory = true
+dropInventory = false
 
 [graveSettings.itemLoss]
 enableLoss = false
