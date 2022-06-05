@@ -1,5 +1,5 @@
 {
-  "enable_tooltips": true,
+  "enable_tooltips": false,
   "allow_vanilla_shield_enchanting": true,
   "vanilla_shield_enchantability": 14
 }

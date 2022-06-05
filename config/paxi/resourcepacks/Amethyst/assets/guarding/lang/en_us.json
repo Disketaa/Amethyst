@@ -1,8 +1,0 @@
-{
-  "enchantment.guarding.barbed": "Barbed",
-  "enchantment.guarding.pummeling": "Pummeling",
-  "stat.guarding.parry": "Shield Parries",
-
-  "enchantment.guarding.barbed.desc": "Parrying deals damage",
-  "enchantment.guarding.pummeling.desc": "Parrying knockback enemies"
-}
