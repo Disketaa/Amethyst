@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:1
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","minecraft/supporteatinganimation","Fabric Mods","illuminations/pixelaccurate","Amethyst"]
+resourcePacks:["vanilla","minecraft/supporteatinganimation","Fabric Mods","Amethyst"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

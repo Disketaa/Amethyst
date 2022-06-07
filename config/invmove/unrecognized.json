@@ -18,7 +18,9 @@
     "net.minecraft.class_4895": true,
     "net.coderbot.iris.gui.screen.ShaderPackScreen": false,
     "me.shedaniel.clothconfig2.gui.ClothConfigScreen": false,
-    "net.minecraft.class_407": true
+    "net.minecraft.class_407": true,
+    "com.b1n_ry.yigd.client.gui.GraveSelectScreen": true,
+    "com.b1n_ry.yigd.client.gui.GraveViewScreen": true
   },
   "hideBackground": {}
 }

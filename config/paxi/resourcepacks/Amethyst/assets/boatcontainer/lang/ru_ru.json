@@ -1,11 +1,11 @@
 {
-  "item.boatcontainer.oak_chest_boat": "Дубовая лодка с сундуком",
-  "item.boatcontainer.spruce_chest_boat": "Еловая лодка с сундуком",
-  "item.boatcontainer.birch_chest_boat": "Берёзовая лодка с сундуком",
-  "item.boatcontainer.jungle_chest_boat": "Лодка из тропического дерева с сундуком",
-  "item.boatcontainer.acacia_chest_boat": "Акациевая лодка с сундуком",
-  "item.boatcontainer.dark_oak_chest_boat": "Лодка из тёмного дуба с сундуком",
-  "item.boatcontainer.stripped_bamboo_chest_boat": "Бамбуковая лодка с сундуком",
+  "item.boatcontainer.oak_chest_boat": "Дубовая грузовая лодка",
+  "item.boatcontainer.spruce_chest_boat": "Еловая грузовая лодка",
+  "item.boatcontainer.birch_chest_boat": "Берёзовая грузовая лодка",
+  "item.boatcontainer.jungle_chest_boat": "Грузовая лодка из тропического дерева",
+  "item.boatcontainer.acacia_chest_boat": "Акациевая грузовая лодка",
+  "item.boatcontainer.dark_oak_chest_boat": "Грузовая лодка из тёмного дуба",
+  "item.boatcontainer.stripped_bamboo_chest_boat": "Грузовая лодка из обтёсанного бамбука",
 
   "item.boatcontainer.oak_ender_chest_boat": "Дубовая лодка с эндер-сундуком",
   "item.boatcontainer.spruce_ender_chest_boat": "Еловая лодка с эндер-сундуком",
@@ -15,7 +15,16 @@
   "item.boatcontainer.dark_oak_ender_chest_boat": "Лодка из тёмного дуба с эндер-сундуком",
   "item.boatcontainer.stripped_bamboo_ender_chest_boat": "Бамбуковая лодка с эндер-сундуком",
 
-  "entity.boatcontainer.chest_boat": "Лодка с сундуком",
-  "entity.boatcontainer.ender_chest_boat": "Лодка с эндер-сундуком"
+  "item.boatcontainer.oak_furnace_boat": "Дубовая быстроходная лодка",
+  "item.boatcontainer.spruce_furnace_boat": "Еловая быстроходная лодка",
+  "item.boatcontainer.birch_furnace_boat": "Берёзовая быстроходная лодка",
+  "item.boatcontainer.jungle_furnace_boat": "Быстроходная лодка из тропического дерева",
+  "item.boatcontainer.acacia_furnace_boat": "Акациевая быстроходная лодка",
+  "item.boatcontainer.dark_oak_furnace_boat": "Быстроходная лодка из тёмного дуба",
+  "item.boatcontainer.mangrove_furnace_boat": "Мангровая быстроходная лодка",
+  "item.boatcontainer.stripped_bamboo_furnace_boat": "Быстроходная лодка из обтёсанного бамбука",
 
+  "entity.boatcontainer.chest_boat": "Грузовая сундуком",
+  "entity.boatcontainer.ender_chest_boat": "Лодка с эндер-сундуком",
+  "entity.boatcontainer.furnace_boat": "Быстроходная лодка"
 }
